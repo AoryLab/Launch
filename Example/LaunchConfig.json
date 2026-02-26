@@ -1,0 +1,81 @@
+{
+  "ProxyGateServers": [
+    { "Name": "Name Gate", "IP": "127.0.0.1", "Port": "10001" },
+    { "Name": "Name Gate 2", "IP": "127.0.0.1", "Port": "10002" }
+  ],
+
+  "Features": {
+    "AutoUpdate": {
+      "Enabled": true,
+      "Check": true,
+      "Repair": true,
+      "Url": [
+        "https://none.ru",
+        "https://none.ru"
+      ]
+    },
+
+    "News": {
+      "Enabled": true,
+      "Url": "https://none.ru"
+    },
+
+    "Language": {
+      "Multi": true,
+      "Default": "Russia",
+      "Available": ["Russia", "English"]
+    },
+
+    "Buttons": {
+      "Standard": {
+        "Enabled": true,
+        "Items": [
+          {
+            "Enabled": true,
+            "Name": {
+              "Russia": "Имя",
+              "English": "Name",
+              "Brazil": "Name",
+              "China": "Name",
+              "Indonesia": "Name",
+              "Japan": "Name",
+              "Korea": "Name",
+              "Philippines": "Name",
+              "Taiwan": "Name",
+              "Vietnam": "Name"
+            },
+            "Url": "https://none.ru"
+          },
+          {
+            "Enabled": true,
+            "Name": {
+              "Russia": "Имя",
+              "English": "Name",
+              "Brazil": "Name",
+              "China": "Name",
+              "Indonesia": "Name",
+              "Japan": "Name",
+              "Korea": "Name",
+              "Philippines": "Name",
+              "Taiwan": "Name",
+              "Vietnam": "Name"
+            },
+            "Url": "https://none.ru"
+          }
+        ]
+      },
+
+      "Social": {
+        "Enabled": true,
+        "Items": [
+          { "Enabled": true, "Type": "YouTube", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "Instagram", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "TikTok", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "VK", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "Telegram", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "Discord", "Url": "https://none.ru" }
+        ]
+      }
+    }
+  }
+}
