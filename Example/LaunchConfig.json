@@ -12,7 +12,12 @@
       "Url": [
         "https://none1.ru",
         "https://none.ru",
-		"https://raw.githubusercontent.com/AoryLab/Launch/refs/heads/main/Example/Update/"
+        "https://raw.githubusercontent.com/AoryLab/Launch/refs/heads/main/Example/Update/"
+      ],
+	  "SkipUpdate": true,
+      "DontSkip": [
+        "System",
+        "DataTable"
       ]
     },
 
