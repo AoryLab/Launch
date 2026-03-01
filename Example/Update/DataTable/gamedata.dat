@@ -1,0 +1,11 @@
+[System]
+VSync=1
+FieldOfView=5
+CameraDistance=1000
+TabTarget=1
+MonsterTarget=1
+BellatoTarget=0
+CoraTarget=1
+AccretiaTarget=1
+PvPInform=1
+ScreenShake=1
