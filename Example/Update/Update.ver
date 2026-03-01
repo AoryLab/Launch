@@ -1,4 +1,16 @@
-GitHub
-1
-Microsoft.Windows.SDK.NET.dll	9e5bcdb3b1555f1e4527c51a08183a0cbf92d5dd6d97b76e9fb1ba117b5c26140ae8ccd2eb4ea056c11aeace401191c3ead9edcded6975c18e8a010a9c24efe2
-WinRT.Runtime.dll	5756ccbafa1440d114f8d9b163ea0c2678300ba24c9979b837ba232cc6813f74a29fc0a23b9bc1d7f53c6ce5f15cdacd6804a755ac816116536c56cd9ca43c0e
+{
+	"method": "GitHub",
+	"version": "1",
+	"files": [
+		{
+			"path": "Microsoft.Windows.SDK.NET.dll",
+			"size": 45156,
+			"hash": "9e5bcdb3b1555f1e4527c51a08183a0cbf92d5dd6d97b76e9fb1ba117b5c26140ae8ccd2eb4ea056c11aeace401191c3ead9edcded6975c18e8a010a9c24efe2"
+		},
+		{
+			"path": "WinRT.Runtime.dll",
+			"size": 45156,
+			"hash": "5756ccbafa1440d114f8d9b163ea0c2678300ba24c9979b837ba232cc6813f74a29fc0a23b9bc1d7f53c6ce5f15cdacd6804a755ac816116536c56cd9ca43c0e"
+		}
+	]
+}
