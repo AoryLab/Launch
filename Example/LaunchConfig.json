@@ -10,8 +10,6 @@
       "Check": true,
       "Repair": true,
       "Url": [
-        "https://none1.ru",
-        "http://rf.playgames.su/test/",
         "https://raw.githubusercontent.com/AoryLab/Launch/refs/heads/main/Example/Update/"
       ],
 	    "SkipUpdate": true,
