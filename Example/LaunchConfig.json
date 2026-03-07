@@ -1,7 +1,7 @@
 {
   "ProxyGateServers": [
-    { "Name": "Name Gate", "IP": "127.0.0.1", "Port": "10001" },
-    { "Name": "Name Gate 2", "IP": "127.0.0.1", "Port": "10002" }
+    { "Name": "Name Gate", "IP": "fc1ceb55291e9db9e7d91fd86a9a9536", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" },
+    { "Name": "Name Gate 2", "IP": "75ba165fa75903f83e65c219af831bf5", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" }
   ],
 
   "Features": {
