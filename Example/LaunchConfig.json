@@ -10,7 +10,7 @@
       "Check": true,
       "Repair": true,
       "Url": [
-        "https://raw.githubusercontent.com/AoryLab/Launch/refs/heads/main/Example/Update/"
+        "41cea1e12524da691e256ccfc129d75d236f8e7d82ea8cb3c10bfc643bd42adae741ede813282fdf12f9ceeca285903d68b3c283a0074cf9c6e1cde2bdfc93dc8beaeaf5c6fcf371aa71f6d62a7da3b9bb1ad6932e28de7487dd115718134d96"
       ],
 	    "SkipUpdate": true,
       "DontSkip": [
