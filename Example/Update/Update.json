@@ -1,7 +1,12 @@
 {
   "method": "GitHub",
-  "version": "3",
+  "version": "4",
   "files": [
+    {
+      "path": "BellaGSP.bsp",
+      "size": 1333313,
+      "hash": "621eff2d24456ca627047553b4ff114f62757df7ebaca8f985ccbdf03b92560cc359267870e4b0d7e66be0049eb5bf0512187c5c2f202247c14614e86b00a8a9"
+    },
     {
       "path": "Chef/Bb/Staff/staff_11.spt",
       "size": 575,
