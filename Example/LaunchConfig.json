@@ -1,12 +1,12 @@
 {
   "ProxyGateServers": [
     { "Name": "Name Gate", "IP": "fc1ceb55291e9db9e7d91fd86a9a9536", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" },
-    { "Name": "Name Gate 2", "IP": "75ba165fa75903f83e65c219af831bf5", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" }
+    { "Name": "Arc", "IP": "c8d19e8d5b2eee447b9ae0545a59f4bc", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" }
   ],
 
   "Features": {
     "AutoUpdate": {
-      "Enabled": true,
+      "Enabled": false,
       "Check": true,
       "Repair": true,
       "Url": [
