@@ -9,14 +9,14 @@
       "Russia": "Текст новости на русском языке.",
       "English": "News content in English."
     },
-    "Image": "https://i.pinimg.com/originals/8f/94/bf/8f94bfb358323d60ff8fb34af38eedfb.jpg",
+    "Image": "https://i.yapx.ru/dLydj.jpg",
     "Buttons": [
       {
         "Name": {
           "Russia": "Подробнее",
           "English": "Read More"
         },
-        "Url": "https://i.pinimg.com/originals/2c/3a/4a/2c3a4a73e773f68702ce8973f4e5979e.jpg"
+        "Url": "https://i.yapx.ru/dLydj.jpg"
       }
     ]
   },
@@ -30,7 +30,7 @@
       "Russia": "Текст второй новости.",
       "English": "Second news content."
     },
-    "Image": "https://i.pinimg.com/originals/2c/3a/4a/2c3a4a73e773f68702ce8973f4e5979e.jpg",
+    "Image": "https://i.yapx.ru/dLydn.jpg",
     "Buttons": [
       {
         "Name": {
