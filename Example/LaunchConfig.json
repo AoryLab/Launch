@@ -21,7 +21,9 @@
 
     "News": {
       "Enabled": true,
-      "Url": "https://none.ru"
+      "Url": [
+		"https://none.ru"
+	  ]
     },
 
     "Language": {
