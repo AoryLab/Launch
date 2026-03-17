@@ -1,0 +1,49 @@
+[
+  {
+    "Id": 1,
+    "Title": {
+      "Russia": "Заголовок новости",
+      "English": "News Title"
+    },
+    "Content": {
+      "Russia": "Текст новости на русском языке.",
+      "English": "News content in English."
+    },
+    "Images": [
+      "https://none.ru/image1.png",
+      "https://none.ru/image2.png"
+    ],
+    "Buttons": [
+      {
+        "Name": {
+          "Russia": "Подробнее",
+          "English": "Read More"
+        },
+        "Url": "https://none.ru/news/1"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Title": {
+      "Russia": "Вторая новость",
+      "English": "Second News"
+    },
+    "Content": {
+      "Russia": "Текст второй новости.",
+      "English": "Second news content."
+    },
+    "Images": [
+      "https://none.ru/image3.png"
+    ],
+    "Buttons": [
+      {
+        "Name": {
+          "Russia": "Перейти",
+          "English": "Go"
+        },
+        "Url": "https://none.ru/news/2"
+      }
+    ]
+  }
+]
