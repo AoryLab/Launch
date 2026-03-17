@@ -9,10 +9,7 @@
       "Russia": "Текст новости на русском языке.",
       "English": "News content in English."
     },
-    "Images": [
-      "https://i.pinimg.com/originals/8f/94/bf/8f94bfb358323d60ff8fb34af38eedfb.jpg",
-      "https://i.pinimg.com/originals/71/08/a3/7108a33dc70073e3fa85135e161d979f.jpg"
-    ],
+    "Image": "https://i.pinimg.com/originals/8f/94/bf/8f94bfb358323d60ff8fb34af38eedfb.jpg",
     "Buttons": [
       {
         "Name": {
@@ -33,9 +30,7 @@
       "Russia": "Текст второй новости.",
       "English": "Second news content."
     },
-    "Images": [
-      "https://none.ru/image3.png"
-    ],
+    "Image": "https://i.pinimg.com/originals/2c/3a/4a/2c3a4a73e773f68702ce8973f4e5979e.jpg",
     "Buttons": [
       {
         "Name": {
