@@ -6,7 +6,7 @@
 
   "Features": {
     "AutoUpdate": {
-      "Enabled": false,
+      "Enabled": true,
       "Check": true,
       "Repair": true,
       "Url": [
