@@ -9,8 +9,8 @@
     },
     {
       "path": "Character/Monster/mesh/darkentm.RFS",
-      "size": 3375786,
-      "hash": "d53c60107019e019b56adfaf2a492ec0def6476d9709f40f32b850844b74c2505824a77e7164742e45ad2ee25ce7a2fe0c3a06805b4f5ddbe68d0a78f17ab98f"
+      "size": 3432517,
+      "hash": "061c6c470c767b860509a57c9435eff2c57987e9c40503c44ad07502fb0904c603928554a9a619f9c6457df8a6fcea464eb0fc1d82aef05ad7004bb6366986e9"
     },
     {
       "path": "Character/Monster/mesh/evenmonm.RFS",
@@ -19,8 +19,8 @@
     },
     {
       "path": "Character/Monster/Tex/Cust01.RFS",
-      "size": 5493884,
-      "hash": "719a0f3818d510007648487f7741dd203a0be80032d9562c9452702e06d5c16e03eebed9cdf4577c862fc09c148298d012ccb717529ed8df73c8a0cb90c0b44d"
+      "size": 6892204,
+      "hash": "7ea895b3a4b5b12ed423389377fa8ef33b40cb49b00faddfb3422b15cfd9b01d507b58906e0b0f9379ade9b5f11578f4d9124bb746e75ec7258b2ebab66e10f4"
     },
     {
       "path": "Character/Monster/Tex/elfft.RFS",
@@ -7999,8 +7999,8 @@
     },
     {
       "path": "Map/Cauldron01/Cauldron01.ebp",
-      "size": 375090,
-      "hash": "dba3285ba3e6968d35f372e7483926b568cf4cd85a42d862510f1372aa26d6d2785ec0ad24b7db2e66e1e863bb06a2a90eda91f6a069dda9cce95af42225c9f6"
+      "size": 373474,
+      "hash": "61095051af0da2782c429d5e77169ffce78f1888b3436252cb4561eb7d273657cd6769a60ecc3a24781cf7c10448ca87c12a6596926298eaeb4f4f90b47057cb"
     },
     {
       "path": "Map/Cauldron01/Cauldron01.r3t",
@@ -8034,8 +8034,8 @@
     },
     {
       "path": "Map/Cora/cora.ebp",
-      "size": 271898,
-      "hash": "e4e0336113818ef6c63f16bd1eeaeca213eef5b06bf8801bc5bdb1d24c84099668426f76e6166ffdd13105188ff35795e2fc874e3ee82577e43c83c8b1dc2b56"
+      "size": 292590,
+      "hash": "9c69bb59a9185a7c4ce0dac06b04b32fdc79954c3d6a3a79d15666531e7fb89c1f5ca356fcee65edd8962f967a701767cabd34e1974f389addd89c86e5071afc"
     },
     {
       "path": "Map/Cora/cora.r3t",
@@ -8054,8 +8054,8 @@
     },
     {
       "path": "Map/Elan/Elan.ebp",
-      "size": 661162,
-      "hash": "fcdd070aded047d4d3ed6ad425916a9048a737e4309dffb93e7a9f2e8d2be6c60f03fdfd4bce9367a25a2df439d658f035de94e85a11c3a43939c5275045ee2e"
+      "size": 607736,
+      "hash": "5e5fda23e7881f8d08c89f5ad14f041e14e451e3237741033fe655df8aabee21340ed555b7c5939ffcf4081a7241cf4c662c02302fe5edf1f6eb7fcd83e936c9"
     },
     {
       "path": "Map/Elan/elan.r3t",
@@ -8073,769 +8073,124 @@
       "hash": "86cff8633b667365ef7d8770d1075ce342c892a4ce56c19e09a3700847045918cac05b0d00f73f95aca446ccf6cb6812b16febd1d9b46c309b69fd54cbae6482"
     },
     {
-      "path": "Map/Entity/a_gate_NEW/a_gate.r3e",
-      "size": 117742,
-      "hash": "399d6aa590f5f9f21aebaefdedf0b2c556cb30060950334c123451397006c1048d77abfd56b956d9bf2de0b1e4bfcb6e49cc6627159feb31d34696a47b6b61de"
+      "path": "Map/Entity/MapEntity11.rpk",
+      "size": 4720213,
+      "hash": "5e55e265b0861fbedd812635c3959666595184e2ea88750f304e786877fef6f711ff7fc62e148209098c3da1a173855e3052fa669d60bb78b930c07241d5b566"
     },
     {
-      "path": "Map/Entity/a_gate_NEW/a_gate.r3m",
-      "size": 388,
-      "hash": "a44db115abbf1a6839edc73b8a59dddf54c92fab29e2bf923951ade9b9dc8ba43f665e09dcea9572db17cf2c5ab646e77bda631a85a6c3498127369714bfb7dc"
+      "path": "Map/Entity/MapEntity16.rpk",
+      "size": 6931540,
+      "hash": "375dce5d0463453b3e9ee8af8a727bed848c277aa1997a901395250af5e75dbd3ce6ea41be8723b74238f663a4a5a1ef3b719ed5e75e13ef55c7ac904ad862aa"
     },
     {
-      "path": "Map/Entity/a_gate_NEW/a_gate.r3t",
-      "size": 2097688,
-      "hash": "57ccd90d3401ad6161e3448422425846def2444e4c55714a7a9d6e3be99323c42a0bc35399837be512258d6df6d57f77e54f6cf99fa2d076145d3acd573be17a"
+      "path": "Map/Entity/MapEntity17.rpk",
+      "size": 7834077,
+      "hash": "1bb005a2b6da6edf738e9c29a1a6c7121d661182cd47cbeef6f0458aec9c009ad92f02050c049bebf973b0350c0e7e8e2ab49e6dfbb68d19b2d8c82323db1360"
     },
     {
-      "path": "Map/Entity/BigState/XmasSnow/snow/snow.r3e",
-      "size": 220,
-      "hash": "0724e6533f43edbf9fbcc06c907b3edce2cb4b27678f8212871f35db213638d47a64be8393a1065cf529d5734f08ff75d31042fb3c51d49ebfe2dea19e409d5e"
+      "path": "Map/Entity/MapEntity18.rpk",
+      "size": 4097174,
+      "hash": "1a2aa1ed8aa92985206564e58e30d76086882f1fb5b84f0354f5afdb0a4ca01205d91d45c7dc56a4d99852c276a3bf951f9c56a019b664049dc98f2384fe4d51"
     },
     {
-      "path": "Map/Entity/BigState/XmasSnow/snow/snow.r3m",
-      "size": 198,
-      "hash": "296ecd01bae52655b5efbe4fe4107eb82179f4ee7d2612f80d9b93745f45d6cc31dd0c59e8e88b7f12571194376ca570bafeb7655d2e6dabc642132fd14c0e33"
+      "path": "Map/Entity/MapEntity2.rpk",
+      "size": 4712843,
+      "hash": "5eacadeaea0421c8c5e3c0f4acadc41a4c1290798492aa0dd9bf647e9936b2e0ca0cb8190a4556016d13e65d326f4e4411eb8b7937ece8cb6403cfcea3ab2f4c"
     },
     {
-      "path": "Map/Entity/BigState/XmasSnow/snow/snow.r3t",
-      "size": 2996,
-      "hash": "bd265966362e11cd1a72194a781ec936f7f2753f59bd5cafb94bd35f567db73047ac278a2d32a983bca5a18db854f6072a5c0d72fc8617ba6842759b8d0a54ee"
+      "path": "Map/Entity/MapEntity27.rpk",
+      "size": 2397842,
+      "hash": "ca7508ee24d28d8724f851125a6e469deab90f7b6afd0aaed95df3fee464aaaf44a5e3f041073e003620ec5932553abc98280c647942dee3945accc85c2551a7"
     },
     {
-      "path": "Map/Entity/BigState/XmasSnow/spt/snow.spt",
-      "size": 574,
-      "hash": "c691baed767bf59421f28b9fd52632c6b971c1105fc610f61ad938a515da058a8406d8bbdfec7f0af8dda62a6599c2c0e541da0c4a037a93165d44da36439721"
+      "path": "Map/Entity/MapEntity29.rpk",
+      "size": 3820832,
+      "hash": "2a939aa373dbfb5f551e7a1dc1d56c223c73c536cd5110a279a09bd55f2a89ac2920f4e81190c8d925f332ab8b4bf59e9ee2d0a11da3c550682ea29faddeccdc"
     },
     {
-      "path": "Map/Entity/BigState/XmasSnow/spt/snow/snow.r3e",
-      "size": 220,
-      "hash": "0724e6533f43edbf9fbcc06c907b3edce2cb4b27678f8212871f35db213638d47a64be8393a1065cf529d5734f08ff75d31042fb3c51d49ebfe2dea19e409d5e"
+      "path": "Map/Entity/MapEntity3.rpk",
+      "size": 1950634,
+      "hash": "70ef010b723ae369947eb0018de7b34e4465d1a84cd29c02f5281c4045a550732082c49f552b122f597b3b6d22af3c9001daa10234ba2ff50c6608fbb056ee3c"
     },
     {
-      "path": "Map/Entity/BigState/XmasSnow/spt/snow/snow.r3m",
-      "size": 198,
-      "hash": "296ecd01bae52655b5efbe4fe4107eb82179f4ee7d2612f80d9b93745f45d6cc31dd0c59e8e88b7f12571194376ca570bafeb7655d2e6dabc642132fd14c0e33"
+      "path": "Map/Entity/MapEntity30.rpk",
+      "size": 4205629,
+      "hash": "a85c62916248579c6f7e273cde1a650daa3260997acbc0c307977541adb2cf022c4163a5bf229d52d59656f4aba210cd6cb9e3d39f78511fd772f5420215f453"
     },
     {
-      "path": "Map/Entity/BigState/XmasSnow/spt/snow/snow.r3t",
-      "size": 2996,
-      "hash": "bd265966362e11cd1a72194a781ec936f7f2753f59bd5cafb94bd35f567db73047ac278a2d32a983bca5a18db854f6072a5c0d72fc8617ba6842759b8d0a54ee"
+      "path": "Map/Entity/MapEntity4.rpk",
+      "size": 6814646,
+      "hash": "b686723028e2dc4c0e3a3029357c564ea7d465725fccc47d63eaf8f81784ea71eaebcd242cdcaa5eb7ab81a15e599463589a1e45444fd2e227fde3a4e0a0d414"
     },
     {
-      "path": "Map/Entity/e_pf/ent_04/ent_04.r3e",
-      "size": 9426,
-      "hash": "ec82bbe004d1bb326324e6c56c522f3bd2105e5db4c75738258412e096c73c0944303d904218b7d01a1a53e3b6e330120f05398e7f715b616e00c60543f8815a"
+      "path": "Map/Entity/MapEntity48.rpk",
+      "size": 5297501,
+      "hash": "1b51f7248d61bb63ddf2e6e8a3d0e533d9aac0f3ed6f3bd8822db94e5e08d1c79d7184ee45f172f63e9203bc8ff0e22481df664d458c073c286ce21e08eedd24"
     },
     {
-      "path": "Map/Entity/e_pf/ent_04/ent_04.r3m",
-      "size": 198,
-      "hash": "76db024ea9b91e4250b9a4f37af81b520584511b90b133e12a497c0f3473ead205cc62146e994783cad526d20a8060a5dc6e5c40fa875ca595d26ceeb72c7c60"
+      "path": "Map/Entity/MapEntity49.rpk",
+      "size": 4575196,
+      "hash": "101cc6f728956683425d8007429824b3182dcd32fddb21fcc6f39742c874d84548582b95802f1509a44d2782118f73111b50ae66bebb12009e7df1a10c3871b4"
     },
     {
-      "path": "Map/Entity/e_pf/ent_04/ent_04.r3t",
-      "size": 175044,
-      "hash": "800e7840dff3f4b66e0ce3927e0e8292dc7c7f6eb494e210491c0a550d29ed7d785058cbded863a3d6e44c0ac3fdf736b1e02c7d2c60042b9032fbe2a82f81ec"
+      "path": "Map/Entity/MapEntity5.rpk",
+      "size": 3909397,
+      "hash": "0f2fd18460cfcdeb2d8be6b3fdd4d53735474dcde36dc85cd5ee7db50f261cf051264d4e193d99415b7426e90f2648b8f486f72c041b4e4fc1bb0f8a49af5984"
     },
     {
-      "path": "Map/Entity/e_pf/ent_box_01/ent_box_01.r3e",
-      "size": 1218,
-      "hash": "3cf235ddbbb1aa2d1b93a264a18f266c913ddbd94d6c455e2b8e6c372ce1517c2f1bcfb2433ab83c2ac8ff76fcc6c56c93ee437c6000ef1693e0704e1b24d04b"
+      "path": "Map/Entity/MapEntity50.rpk",
+      "size": 3858286,
+      "hash": "f0cc70c7d3c4ab320f471614ae118c4eff4670da3787ee330a31975f08f1f52b5febd13a4f7b52bfdc7dc960acc8e1de402b95c57090ea381cd15cfbf4894b75"
     },
     {
-      "path": "Map/Entity/e_pf/ent_box_01/ent_box_01.r3m",
-      "size": 198,
-      "hash": "e88b28df9a939dffc7eefd40b1743ef954a1264e661ba63b7da4ee23a8b4e6583a5b8de19108b5358160cce591311d0263e0eb31771f37e14206ab16fefbaf10"
+      "path": "Map/Entity/MapEntity51.rpk",
+      "size": 4596846,
+      "hash": "181a745b845bb87865935e94d51c4118b0f25330245568bf9e2c7737d2a1e3c16472bc027495a6cc5f2e5dc9f1e61cfc4a5072b6709a07dca108cf0b8375199a"
     },
     {
-      "path": "Map/Entity/e_pf/ent_box_01/ent_box_01.r3t",
-      "size": 43972,
-      "hash": "1d30ecacec273912973c7a38a86c16e8fed892c895687c1444b1633d570758ac27e5278e60701ddf060d4efec1d2ad14a165a82f03d3bcb99727b9f2f3323eea"
+      "path": "Map/Entity/MapEntity52.rpk",
+      "size": 3044489,
+      "hash": "0b8ea4789d54c87087d57f3e860ceebde318994238bd45d8b257b24c7d46815d63614462eb9f2e82adafc4a767d137eca09f4f2dcd4e96035cbbe58bfc16f18f"
     },
     {
-      "path": "Map/Entity/e_pf/ent_box_02/ent_box_02.r3e",
-      "size": 708,
-      "hash": "86d8b6546827a5aaccb87150d530abe0ddcc74887245964bbdab19513539e3c90a44a6da08f3cde604f5ea889283c0d2af58190328a96199b8900bd94d8d057a"
+      "path": "Map/Entity/MapEntity56.rpk",
+      "size": 5615714,
+      "hash": "acf50f009b71a7a76760103f9f3b4e0136f432120426fec9200d405c88be677e3a76b431b406621d088ab17fa5e3c7b100dc35b00210a052a571ea91ceabed98"
     },
     {
-      "path": "Map/Entity/e_pf/ent_box_02/ent_box_02.r3m",
-      "size": 198,
-      "hash": "0f541fb64ee6193cc9457d238ce2ff7b0df65ac9f491b33a8f57213ee5c18be81407f0f113f7b1c5b9dcbc74e13150d257c3bbc99e7326a6a0fb5116119416e1"
+      "path": "Map/Entity/MapEntity6.rpk",
+      "size": 5307224,
+      "hash": "95413764b746c66c400c13276751d4a1fcdea63ffe2019d03d4528a8bdb85e646d219955e947649ce6a28471f99c0a8a1c069c28324cb46cfb4ebb6e5bc7eec1"
     },
     {
-      "path": "Map/Entity/e_pf/ent_box_02/ent_box_02.r3t",
-      "size": 43972,
-      "hash": "5b0886473b0b330d96d858d4a1598f537f27a1507f69239191675a70ac54ff06a916afbced3db706eadb5b4144a496287939c82ffdeb2295fc9a76ada04a66bd"
+      "path": "Map/Entity/MapEntity60.rpk",
+      "size": 2216186,
+      "hash": "cbf58b425196ab8e4f2667fa61c03b7bf8cefcae5d77f435017f0eafcda102be16c172a75ab9c5e5091d097e672986c82a499460d6a344528f7e6bb9c63f7d3a"
     },
     {
-      "path": "Map/Entity/e_pf/ent_box_03/ent_box_03.r3e",
-      "size": 610,
-      "hash": "c457fa5a4112266e04e21a96189a981d264afca71fd8418803c86c8fe92991f98404504c6ce5a5cbeadb8d89e47e550bd8e0b4a14455c2431cc2f6d46340fc78"
+      "path": "Map/Entity/MapEntity61.rpk",
+      "size": 8708,
+      "hash": "bfdc6c4d9f1ec071a3c1894902f0e46611207ac53104cc1716f8dd4d126a2154eae7a44f9b3608b1f3faa2d25ab598cb2bd1f828961b6db59484498b899ed5f0"
     },
     {
-      "path": "Map/Entity/e_pf/ent_box_03/ent_box_03.r3m",
-      "size": 388,
-      "hash": "e92a90b0334d624220378704561ab47aa6f87bb8ce478f8bc41732e9a7dcbdc9c871b1c4b25420648abd96bff646d35534eb457c27d35ff0a63fde6cd09318c5"
+      "path": "Map/Entity/MapEntity62.rpk",
+      "size": 455732,
+      "hash": "613089339fde47bc4054fa2232f14f07c5e69f8dda85f477f6bbda06d32402d2a7174b2f30991a736c6c77a6f06ae053ed73c8308a8c67f8375c697c1864b75b"
     },
     {
-      "path": "Map/Entity/e_pf/ent_box_03/ent_box_03.r3t",
-      "size": 87936,
-      "hash": "b07340873fffa833733e94c2fd14c2996cd39256b34f4a4792bb7e906d51ce4f07b97fae1c3a94f97bc38f4f10b0d733b075d0204a096869c804f39e5ef2bb5c"
+      "path": "Map/Entity/MapEntity63.rpk",
+      "size": 1399872,
+      "hash": "7369e22f14ab77840824a3d3892f574e8f10ac3c25be65be418913414fdc521880a889688cffa9360f8aa547d5eb372de49efd4317f41bcd6d78b2fae7729df6"
     },
     {
-      "path": "Map/Entity/e_pf/etc_07-w/etc_07-w.r3e",
-      "size": 16574,
-      "hash": "2459299da0b66ba4fc4c3985d8d935726cf93b0816743ddd40346d901f24e98c6d7d596b2149671668eaf9aa1eb945fe9051abe75def22134aefdfb37b531343"
+      "path": "Map/Entity/MapEntity64.rpk",
+      "size": 3928876,
+      "hash": "ba3bb7a29da5b7468ecc24e2753894cb1285fe9823a1dd03c01600b745da581a34983afbd32090671cb4d5c9337b74ae2d469bedc04635e8129b0023df741c73"
     },
     {
-      "path": "Map/Entity/e_pf/etc_07-w/etc_07-w.r3m",
-      "size": 768,
-      "hash": "99316a31d5b363a26c12789aed75fe68bd3e213d88d4cd17a1470435c8c40e3a4f1fb601b2a31488f2eba47e81cd93a935698a346575124b68dfbe7c7aa479c5"
-    },
-    {
-      "path": "Map/Entity/e_pf/etc_07-w/etc_07-w.r3t",
-      "size": 66104,
-      "hash": "04c6185f6e7c03df771c1e2336988040e39b13929cc948b1c873f3c4999a494d0c4b5068baca2fd8db3bd3978661acbdd1e931629d98dfd7f957714b94ca9aaf"
-    },
-    {
-      "path": "Map/Entity/e_pf/fsmk2/smk.r3e",
-      "size": 220,
-      "hash": "5988fc98b68cce3dc7bae7de83194a215c791b2f4882ec31832747fa72a79ba98c9f75c63600af1fc8452121cd35df8c3c940cc1b5e6334538d094ac9e44598c"
-    },
-    {
-      "path": "Map/Entity/e_pf/fsmk2/smk.r3m",
-      "size": 198,
-      "hash": "3e102c6ea9fcecc40ca5642bb229293a0db76eecb6f4a4cd2e7f074e5fe0c68747bc6427a1841a4e7fd08a067f40f1ef3c3c2698d68d5c3ee655c723c5ab446e"
-    },
-    {
-      "path": "Map/Entity/e_pf/fsmk2/smk.r3t",
-      "size": 11204,
-      "hash": "f5d71803f8c8359aefab321ac1980c7664f69840eea4f4ba993d7314c79f9ca931ccc0803dbdafa1cc8389e20d1226759a30f1b92c91da4b4d7432cb42053896"
-    },
-    {
-      "path": "Map/Entity/e_pf/l_tree06-w/l_tree06-w.r3e",
-      "size": 508316,
-      "hash": "f8b3669aaea0a8430c02174987067b11499477a9e0fb86801ca6240765789b0c4e016de6361f3842237dcad298c9a632a42dfd68c821debea282760060c8d60c"
-    },
-    {
-      "path": "Map/Entity/e_pf/l_tree06-w/l_tree06-w.r3m",
-      "size": 578,
-      "hash": "8b422429911fb96e1d67972602d12b78bcea088e763da1eb960b1135afa2cb47ee97aec40f75e95524e137693e7139ab30960159b938f504e28bb75222061733"
-    },
-    {
-      "path": "Map/Entity/e_pf/l_tree06-w/l_tree06-w.r3t",
-      "size": 3496108,
-      "hash": "6bc95f7ea9d34c2cbc9d6489704f674911931330e1220256d6ce22551beb2d518062f0c86aa85d4395492eecf5f18a8ee38680bd5023e7f0b415434c76166f0a"
-    },
-    {
-      "path": "Map/Entity/e_pf/l_tree06-w/l_tree06-w.rar",
-      "size": 244749,
-      "hash": "7e8b753f1ea20c94afd1c6de5e4d7bae0aa8fa1be7abbf8079d7e9a1ac96a2a97a8eb17d90e16a6cd057a55251a055e7a63243596647f0d212ef8ed096545595"
-    },
-    {
-      "path": "Map/Entity/e_pf/l_tree11-w/l_tree11-w.r3e",
-      "size": 508316,
-      "hash": "f8b3669aaea0a8430c02174987067b11499477a9e0fb86801ca6240765789b0c4e016de6361f3842237dcad298c9a632a42dfd68c821debea282760060c8d60c"
-    },
-    {
-      "path": "Map/Entity/e_pf/l_tree11-w/l_tree11-w.r3m",
-      "size": 578,
-      "hash": "8b422429911fb96e1d67972602d12b78bcea088e763da1eb960b1135afa2cb47ee97aec40f75e95524e137693e7139ab30960159b938f504e28bb75222061733"
-    },
-    {
-      "path": "Map/Entity/e_pf/l_tree11-w/l_tree11-w.r3t",
-      "size": 3496108,
-      "hash": "6bc95f7ea9d34c2cbc9d6489704f674911931330e1220256d6ce22551beb2d518062f0c86aa85d4395492eecf5f18a8ee38680bd5023e7f0b415434c76166f0a"
-    },
-    {
-      "path": "Map/Entity/e_pf/l_tree11-w/l_tree11-w.rar",
-      "size": 93570,
-      "hash": "5d272ff833836c40e16a37e17ed43d5bd878f2abc93f3701786469304d6c819412e0da4362a4bdd0a83c582d4034547159c49a870bc680c1f5a1f93b7574af9a"
-    },
-    {
-      "path": "Map/Entity/e_pf/l_tree15-w/l_tree15-w.r3e",
-      "size": 508316,
-      "hash": "f8b3669aaea0a8430c02174987067b11499477a9e0fb86801ca6240765789b0c4e016de6361f3842237dcad298c9a632a42dfd68c821debea282760060c8d60c"
-    },
-    {
-      "path": "Map/Entity/e_pf/l_tree15-w/l_tree15-w.r3m",
-      "size": 578,
-      "hash": "8b422429911fb96e1d67972602d12b78bcea088e763da1eb960b1135afa2cb47ee97aec40f75e95524e137693e7139ab30960159b938f504e28bb75222061733"
-    },
-    {
-      "path": "Map/Entity/e_pf/l_tree15-w/l_tree15-w.r3t",
-      "size": 3496108,
-      "hash": "6bc95f7ea9d34c2cbc9d6489704f674911931330e1220256d6ce22551beb2d518062f0c86aa85d4395492eecf5f18a8ee38680bd5023e7f0b415434c76166f0a"
-    },
-    {
-      "path": "Map/Entity/e_pf/l_tree15-w/l_tree15-w.rar",
-      "size": 248944,
-      "hash": "7a4df85a44469b11db42a567602e63970780aa74995b8c5a3e4fda462e1ad8fc8b20514d82d515215736115acefa0d01aab97e734058ccebbc857b26cc0bd89e"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ent_01/pf_ent_01.r3e",
-      "size": 6500,
-      "hash": "d1e590e6ba861175bc9ec60768c2bd9fd917b9e52b4b97bf7218622ad8f06e6edfe9da6fcc548f300f526bc2227e99286cfff0524821628ce7f41d525817c78f"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ent_01/pf_ent_01.r3m",
-      "size": 198,
-      "hash": "d74bcb0366881379736b61b83740fb83606d6109cd35c851ee7c0129c673d65620ea71ae4dd4df79855239a045fc5b0e1de75cc20167b9ebcb74876524512811"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ent_01/pf_ent_01.r3t",
-      "size": 175044,
-      "hash": "ace85bace974c4f4ce3e228880e95038b04156b57eedd49dca72fd41ba1c9c6b0953e100c34f7fae0b3298ec2e0c0a17e23bac27159e8ad274a6a34673ea12da"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ent_02/pf_ent_02.r3e",
-      "size": 2302,
-      "hash": "f4db6acbf468f6297052f834478c555da9e684917cd6a73fc3c4f8b76e374c27e251c4fae8236228b4e5f81fc7d3a310ba223d4595aa4e0ec8a9a9cda1f99110"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ent_02/pf_ent_02.r3m",
-      "size": 388,
-      "hash": "9aef899878cf8981697d442ed84aa5d0d043fa8514bfc340ed0dbc67f3c898aee6f0089927b5189037fddfbdfe7fcee749efa746fd1141a13c44c342172c7a56"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ent_02/pf_ent_02.r3t",
-      "size": 350080,
-      "hash": "d835a4338020217e0e52f6cb4ff8e2a438f4e604642d4565991a33f0a32e196d1296e88e29b82054ec684467afe140a1f2140cf0d90dc2ca08ec3189352676f7"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ent_03/pf_ent_03.r3e",
-      "size": 6404,
-      "hash": "dbd16cffdecbc7ee79a7feff3a9035ab576c5e443568440b65f53e9da0924ce60f0c4b5ba99ae7762841962c76fdc875427c2165dc1551aead8b58e5189ff53c"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ent_03/pf_ent_03.r3m",
-      "size": 198,
-      "hash": "65a9920c0a40d48c47d5f7ffe6a30448d5d0e4a0a8c38ac1e1c7785be6fecc049b017a358dd455c3b6b87b9e1f7ddbc265e057380d866836b2f59737d08939c6"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ent_03/pf_ent_03.r3t",
-      "size": 175044,
-      "hash": "11aeb43e203b4a0e5819cce69c632c32f55b025b743d72a36e1c07b0cad5272e1a6bd318fa6ae27b6fdce938716823621c843e74e23987b3591c178e52ef9e38"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ent_05/pf_ent_05.r3e",
-      "size": 3956,
-      "hash": "a13d0cbbb11ace930e714e36db57245b230a3666b3314ad8eee27e5a88ae1104eb72cbadd84487979b74baa05008530b4ad895297b522643072adaae91544b7c"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ent_05/pf_ent_05.r3m",
-      "size": 198,
-      "hash": "d74bcb0366881379736b61b83740fb83606d6109cd35c851ee7c0129c673d65620ea71ae4dd4df79855239a045fc5b0e1de75cc20167b9ebcb74876524512811"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ent_05/pf_ent_05.r3t",
-      "size": 175044,
-      "hash": "8e3ff8a5bc0af57f644d3765053de98a6d5d39928442ee10a9c19cd41ce4a06795eababce4e6e7ed2eefb2a98a83ec562d0bedc554100a9eb57e69e9d2825717"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ent_06/pf_ent_06.r3e",
-      "size": 3812,
-      "hash": "1c351adfdb2fa638bd05673dc0c88ef4049c11c1f561e499020d904c9d716ed9425e09e568943f86835a8e9c07979e043cae5816a16851495189d979d9dd1788"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ent_06/pf_ent_06.r3m",
-      "size": 198,
-      "hash": "d74bcb0366881379736b61b83740fb83606d6109cd35c851ee7c0129c673d65620ea71ae4dd4df79855239a045fc5b0e1de75cc20167b9ebcb74876524512811"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ent_06/pf_ent_06.r3t",
-      "size": 175044,
-      "hash": "83f542cef2e0c429c3c59e1fd4d3c513e6930a0e6ac6ec9c5b13306890a332a6e28be61cb364ce2b08f7dee36b97c10e150fdd72c199b5416d37d0cbd74f04dc"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ring/pf_ring.r3e",
-      "size": 292,
-      "hash": "217b65df1b3490a145fcc9c7e91c215ca93ec904ec722022cd4bff496f322859c01942124545444806271626bce76e2c4dc0662a9c3890b35a675d28d192cfd0"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ring/pf_ring.r3m",
-      "size": 198,
-      "hash": "6fb8542289120207103de168a8efc49f699f9c183ea30c2b326b0149d9f89c7c213f8108e88283a24369694a54dad7f8af47e654b6d7109288e7a823cea75cb5"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_ring/pf_ring.r3t",
-      "size": 43972,
-      "hash": "5e5892cb32eb358c97ee8e5fa34acc9d89c33972219a948edf7655768723eb9cc4fa7f662d57d8070fd1d91ca768024951c8b2e05e4296b188adc49736aba9c4"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_smog/pf_smog.r3e",
-      "size": 220,
-      "hash": "eeb7e5061d3ea814f4e960fd1ead4e849a5fe0d152624a37f8964e68d851b55ad75f445bb5dfaf5e3e321a999a23c6aa92281e0217222e4bfcf0b7d42e437a7f"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_smog/pf_smog.r3m",
-      "size": 198,
-      "hash": "a7a5f5195a5d66ead90b56fe43c6b058009624d408143811a86ac2e2aa46f150b271b3e1be708a1af8eaf37ed83413fdedf009cc432371f598ae000c84ecc5dd"
-    },
-    {
-      "path": "Map/Entity/e_pf/pf_smog/pf_smog.r3t",
-      "size": 87644,
-      "hash": "221d35895d21463e24589f4375b5a4a7b443de2a38639f0800ebecb9da791d54c086aec6d55b813ce277c8975eb7de3f9474870b65b5237474871fdae76b3307"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar1_s/platcar1_s.r3e",
-      "size": 66650,
-      "hash": "f5985d9ad3e0675378bfd24c85987b3864ef7f40c5c2ac3259a99d7e8d0e1e0b61b8745fe72603a226d7aa66d9c96d86dde7b62949f9268fbddb76854a196313"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar1_s/platcar1_s.r3m",
-      "size": 578,
-      "hash": "ab0f696662ff7dae0809b4dce9bfc0ae9d4e8ac0a9cc0b91ebbdc58466cb70c1e811f0bd04aa15162e3e50e472f00573cd373886e3d73c4787a5b69f5e39b91b"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar1_s/platcar1_s.r3t",
-      "size": 525116,
-      "hash": "16ff4ccb752635a087318b6af0fadbf1c4e9e340e64465f8e0ba760943cdc0777e920ced4ba9d3eeed998f3ae7c604f6a0f38116e6105b68a8810844ea350090"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar1/platcar1.r3e",
-      "size": 63460,
-      "hash": "7ce4e0d5e0722602ec162260f07e41547b553250f37a27a2113fe6b31e89e3ec8d3ecc46a0283b23588c54fcc5df5006a48a5d54c0234ee31b5a8d01b0504cae"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar1/platcar1.r3m",
-      "size": 578,
-      "hash": "f4b81a3571685ea2d4357478247434b1cde216573a9faf60b90fd62ad8dd852b5940a3f62db6b203727ee68e58ab82d4479b978c55e1dccc6bc4d4ff7c7992ab"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar1/platcar1.r3t",
-      "size": 525116,
-      "hash": "d0c20ae6eddd154730045e9519ba8aa594992525a7f3f2d8098380c69d1824980e0cb18621f58e48c0f88e9797793dda11b48f1bdbc7d649da93cc12a395788f"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar2_s/platcar2_s.r3e",
-      "size": 77016,
-      "hash": "baa97619ed7621edf5bc8ee9306440e59bf5731e221a634557e38c1d69e73d47df6e57f90679ff458bdf5f02056c7e72a1af17eef90faf9171a50784c64d368b"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar2_s/platcar2_s.r3m",
-      "size": 578,
-      "hash": "ab0f696662ff7dae0809b4dce9bfc0ae9d4e8ac0a9cc0b91ebbdc58466cb70c1e811f0bd04aa15162e3e50e472f00573cd373886e3d73c4787a5b69f5e39b91b"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar2_s/platcar2_s.r3t",
-      "size": 525116,
-      "hash": "57ab468dd2a9b1fece98e4a5c69892fed33856d4a22cc05fe87a5961e07689275a6915c9eb1c1eea6b85f377c81815ea7dd22f3b1530463815fd8439545b5d65"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar2/platcar2.r3e",
-      "size": 73854,
-      "hash": "295df4fa39cda290240a45fab984c756bf20274860b79880e4ba2674efd0819aae3944a93359cb6a199c2b1d456ea7aca98cb47cc44243b9d74baa97a039de78"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar2/platcar2.r3m",
-      "size": 578,
-      "hash": "f4b81a3571685ea2d4357478247434b1cde216573a9faf60b90fd62ad8dd852b5940a3f62db6b203727ee68e58ab82d4479b978c55e1dccc6bc4d4ff7c7992ab"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar2/platcar2.r3t",
-      "size": 525116,
-      "hash": "0756e48a45d12704a1a0af8d096c5401361c0f8abc1ae38de25a9a838e3491f628bdcf903543bea2d5b7342d28aaf69c5b62eff760d390d282125b8886c2b642"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar3_s/platcar3_s.r3e",
-      "size": 94116,
-      "hash": "00744a3599d2465b947505a8daadc70bbf7c102526488cc9699851d98e869c6ecedc2ec61d0528389f106ee51c63d5afb9ff4b157454d07b1773c3214cfb53bb"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar3_s/platcar3_s.r3m",
-      "size": 198,
-      "hash": "b43ab45dca27ce18b263c296902e0e673c1fb3f1ea04a820732fa058c4f5c9ed0b1eeedcf8453cb0dcf0ff1cbd9e0b96670616a8b77cbe56e2934ad184458aba"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar3_s/platcar3_s.r3t",
-      "size": 1398364,
-      "hash": "2bb1fe923a5513ec736c8385d1591c70dfdfecac0a28938f6cfabd331e6c594b2fea2b19fa4e6a58635130233aa20830cd4ec56554ac5af255f74cd6bf661517"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar3/platcar3.r3e",
-      "size": 94116,
-      "hash": "03c1716a35607bfb7cb7cbadeca461b0bdac1c30f256dc6593d8f55f771d4b86fe28376d9d6441105d6c9804116f4e85f35090f9bc4151aae7c49f3138373f2f"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar3/platcar3.r3m",
-      "size": 198,
-      "hash": "b9a91659d575c60923775f001b8a64a85c83b0d43495dfc6ab4773eb96b535c532d94a7c342ee3a05e038eec3cfc76e16f0a89d356f719ec9ca2aeb394e9ecf3"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar3/platcar3.r3t",
-      "size": 699332,
-      "hash": "72ae22f1aef48bb7cbe810bd5ea57dc6f94091c880c2b60a23d7411385f6db345622c7b53a177dc3df2836be2d4144f8d9fba2e20b479a7e0b4e96389387bac8"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar4_s/platcar4_s.r3e",
-      "size": 93306,
-      "hash": "68b2445f60f4cfa9fd6b1118b817e892843627656b49e2db47014e9db6d7080ebb4813497485e669c256ed8259dba74f199fdd09f0fce69e858fb472522834c1"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar4_s/platcar4_s.r3m",
-      "size": 198,
-      "hash": "e02c903d04f63310df23abc402f938fa213b4821c5430c45f98f88ddd1afcd3106728b5db3786f0b78f7668accd7ace2bca90d239b7ef53575e108122f92a481"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar4_s/platcar4_s.r3t",
-      "size": 699332,
-      "hash": "812e5e89088c3c37a42afd935b119b73e878d3739a669873aeaf2314f55f5e38be390c04bdcbd203ea8318adedce3570d9af107297d0a813eeb7adf61c894797"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar4/platcar4.r3e",
-      "size": 101646,
-      "hash": "fbbc112babe30c6fc585b4c7af6b43c2d994590291dc8c82794b8d94ba4b4f918c1845b7022680fdbd3d28e44cfe836e6df5deafcb4b6ab21696351a86250f3d"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar4/platcar4.r3m",
-      "size": 578,
-      "hash": "d7b633737da799be83edf54d13b866e831a68dee13b04326138e8d59d296327ae00f0968e74bd71ad84e483f2351aa94bf9c3ac44e50a7d3c9e86e016ee35c12"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar4/platcar4.r3t",
-      "size": 2097980,
-      "hash": "d0a1b8f718450da97bcbc76b580bb5fd5ad8aea53ee49e2ac2b100d09008265b342354adc583044151308488028d67525a91bee1f76ccee6447d81c01bb41685"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar5_s/platcar5_s.r3e",
-      "size": 74966,
-      "hash": "287af015361da8503ac08f42cc79e85fa256dc694a155e56442846e8561920953330f767e134c3aa9d83f33b5777f146adc0fb3a23853dbe39cee1cfb0f6a2fa"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar5_s/platcar5_s.r3m",
-      "size": 388,
-      "hash": "0ace8051710c5ce01d9d0997f2b5a1e5784d269765636a9ab290646c5d1a0ba494c0618d84e5269bc2fde50f336ad4da3ed62ff336061a63ff3cd07a755ede42"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar5_s/platcar5_s.r3t",
-      "size": 350080,
-      "hash": "a29ec3220cfdc95ebf2947395c32a67ad1c86c4c377675bce95145d9f8b581671eb678d9d4ea9ceedf405bccb813bcadaa53fcbee48c48706e102c31c80915ff"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar5/platcar5.r3e",
-      "size": 74976,
-      "hash": "0acd85361ae47fdd56256d26b7992baf411790298a5103e38540d560b31121a8226bfe423c4bf640028e56ad0825bdf934dac27841a5f699b7ceebb1263a50b9"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar5/platcar5.r3m",
-      "size": 388,
-      "hash": "868d38b8d2ce7f17c4e6d1f906987f157de83c5032bab2599556cdc8858cd1a5465ceb713d4ffb9a6cb0d3518d0dd015416daf9fb1f914b924c7c85af5b6cb55"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar5/platcar5.r3t",
-      "size": 350080,
-      "hash": "3502ab6ff54e2826d268f97ac6d5f62ab3aeac40892fe6ed34bbfbb7c26ba2b3ade055b146ddf946bc709c1c84e473d445806d34126d64dfdd515dff8c9484e0"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar6/platcar6.r3e",
-      "size": 39542,
-      "hash": "542006cf0b91ccb945b3650444834d9688f1e5853abb47157774c9bcdcf451851c456f5dd332f1efdf063d432eb47b214f4934bb4808447635bd92aad43dcea3"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar6/platcar6.r3m",
-      "size": 578,
-      "hash": "7b3445ba05a4927292248ca7583c0a467d3ebe11ef5d3acfaec8f2da8e6ba29fd6e8830403101973f1c96cd4fcf3ef60eeeb608fb1cc1c94a90c2ad933ada39e"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar6/platcar6.r3t",
-      "size": 394044,
-      "hash": "823b1a740e9275f8c1179ac5935b55f85bb3da4a11be86cd950dbbecb3d71591b6f8639223f4f039a793ced16cb42813799e54a4302299cb164276876f4d80ef"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar7/platcar7.r3e",
-      "size": 60112,
-      "hash": "3a04ce47af0a7fac0ee9c827435b86dde6308cb6d9fe4a6cc28d0ca1dc209fbe17b3696e72948ecfc113768be25d9123c1c3331831ee277460d6ec3fff4d2764"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar7/platcar7.r3m",
-      "size": 578,
-      "hash": "ff64fcf4aa4bd8a13dfee2e9fd9b685aaa92425f059363a24a17fc0149ef65aa4cd513ebdc3b6015d55f642502bb04c6194dc35db39505fe6ab55bc31bcf2368"
-    },
-    {
-      "path": "Map/Entity/e_pf/platcar7/platcar7.r3t",
-      "size": 394044,
-      "hash": "0683699459e8429b1928844ee6e4a76a3b00fd8e0d4049e699a06837921c229453b82e090a1235d4d735a50a8cc0ffa1c604c4a5a03eb28f036e62e67e7a0936"
-    },
-    {
-      "path": "Map/Entity/e_pf/platfly_s/platfly_s.r3e",
-      "size": 74658,
-      "hash": "3528252632682916ea0a69e0309cc9b987a1a0df21d907d41c41b9c1dd35e7e5c66d404b40f3a875ac1357845eb7654b0a55f348d3e434ff447c8895487f96ae"
-    },
-    {
-      "path": "Map/Entity/e_pf/platfly_s/platfly_s.r3m",
-      "size": 198,
-      "hash": "0a2570961a546ed86912dc980e2ad966ccd40ec1551b516173172937a592c493fe924b9d8ac4ff4cebf2b9d8e5bcf3369a13e5c57463d9a65d63842e5da2d76d"
-    },
-    {
-      "path": "Map/Entity/e_pf/platfly_s/platfly_s.r3t",
-      "size": 699332,
-      "hash": "03de6e7b272621cc6ad285c473fe6795368d2f1560e789bec09cf8465530000139b974eb5d9792c78c937294e410da67b7c3027f0f117eac08d93e9727fa240f"
-    },
-    {
-      "path": "Map/Entity/e_pf/platfly/platfly.r3e",
-      "size": 74618,
-      "hash": "853cac3b04a0180d92bda9478d3baad8ac80adeff49681f9ee86871822195b0275305821835406eabb1d10af81fb20b86f8625c484720121f896472a6e401844"
-    },
-    {
-      "path": "Map/Entity/e_pf/platfly/platfly.r3m",
-      "size": 198,
-      "hash": "f8dd11d25c27a7dc75a8ee1204b6746a4b74882417e3370e8d3997b0bb2d14b4dfe1d82bd99fc1374a91a48005f1a3767b5f0fb6e3818049a050a64d1558ac5d"
-    },
-    {
-      "path": "Map/Entity/e_pf/platfly/platfly.r3t",
-      "size": 699332,
-      "hash": "b52f67d027fb214c353c9f5fdd6b0acee69bb43c1a3a16a3cb1a1be7fe4fd829173cb68f1b7c15f839ac3e60ded9601d6df6c69f232b3821607c808d6493a72c"
-    },
-    {
-      "path": "Map/Entity/e_pf/s_grass07-w/s_grass07-w.r3e",
-      "size": 9207,
-      "hash": "df99605279f2ae2c8ff38675ddb9632379c683d92e61227e08453580a4c16b9ca7a8810b990447d0f1cac140960be16c64e0bfbb00452477a950b674c0d6c367"
-    },
-    {
-      "path": "Map/Entity/e_pf/s_grass07-w/s_grass07-w.r3m",
-      "size": 198,
-      "hash": "3cc8b37a1cfede204d3ffc536ad6d6707e34bd473744f3f452aa9784507afe6397eb83233f7b1d1efe1933113946715f3f47f558f92fd4b8e76bee43757e0fb9"
-    },
-    {
-      "path": "Map/Entity/e_pf/s_grass07-w/s_grass07-w.r3t",
-      "size": 87676,
-      "hash": "ba8b1ef2f7b5d310581792dc4ee2cbbcd49dd02bc674ca1ff20c5b7d20eebf09bb6a77d174eeb8e96f2816c7c50873599b8ffd376dff458e4958afb180bc4189"
-    },
-    {
-      "path": "Map/Entity/e_pf/s_grass08-w/s_grass08-w.r3e",
-      "size": 14039,
-      "hash": "e2bd2e89099e235c59b3ee5cf4ae3b4ca2779599c88eb234ef54e5deb2e055fb77535168f26d4a01de2685a85dcd71f519361361105c3e24050909a2fb691bc7"
-    },
-    {
-      "path": "Map/Entity/e_pf/s_grass08-w/s_grass08-w.r3m",
-      "size": 198,
-      "hash": "16ecd4ecfd8149217642f06e726c0776100bcae7f5936bf4acc2db55d304667902db7f6e42a6abb8187a147436d0a21adb3e917b7bf4dcb188d657beeba22826"
-    },
-    {
-      "path": "Map/Entity/e_pf/s_grass08-w/s_grass08-w.r3t",
-      "size": 87708,
-      "hash": "20935b63d2992cd9fe04a29d580fae0540ab0e01fb9961bba4c83614381cfac83825a48f40e25ed15ea4918a4d83a23dbf2058d3e65da317cc5b9e0d440ce559"
-    },
-    {
-      "path": "Map/Entity/e_pf/s_mushroom-n-w/s_mushroom-n-w.r3e",
-      "size": 19324,
-      "hash": "36c15d18c143da2a4e904e0107ac06fbd410d4fe3eac79513862043d365dc78342ad09f87b49278fb988401dc0c0175da49cb7baa817a48a27ae6230dfe6272e"
-    },
-    {
-      "path": "Map/Entity/e_pf/s_mushroom-n-w/s_mushroom-n-w.r3m",
-      "size": 388,
-      "hash": "1abafa7a8bca8cc86cd2461260d8f09244a9f0a75e75864bddc1fbbfc05e1e4325dd9e0fe135902df816df2efbcf8e9930f3d3fefbd12467bad3f3af520efa91"
-    },
-    {
-      "path": "Map/Entity/e_pf/s_mushroom-n-w/s_mushroom-n-w.r3t",
-      "size": 87936,
-      "hash": "a5eaa6813c632b7b5f67407d4f9c17ff6f486803cbdb14f2a00df39b792b13d1ab8fafae7e96a05d747e4d17130a27ebf097ac6e4db5373186d11270f84aec30"
-    },
-    {
-      "path": "Map/Entity/e_pf/s_mushroom04-w/s_mushroom04-w.r3e",
-      "size": 11987,
-      "hash": "f1755e600494772ea63ec514f5f190ea29a5b266121a2ce5d8bfed6c10ac02145489e39b6266071174ebe08cd5c84170380a602dc7b83d40860d94863394f437"
-    },
-    {
-      "path": "Map/Entity/e_pf/s_mushroom04-w/s_mushroom04-w.r3m",
-      "size": 768,
-      "hash": "48acce59495957e62cc1d8394808ef2d3d4b5e19841597c615b51282cf4b30b23ebc9326a6758c8d3b5559ded35a1c6e9a25cc77d6e46bbcd73e40518fa1f576"
-    },
-    {
-      "path": "Map/Entity/e_pf/s_mushroom04-w/s_mushroom04-w.r3t",
-      "size": 874928,
-      "hash": "267f7d6da4ed08758b10e37c779240bdebd5ae895ae88b8e4e38f0c4d920ad34bd2c723cc281dc4879d8354fe84eef2d171575fecd60482fa443f52a43ae571b"
-    },
-    {
-      "path": "Map/Entity/e_pf/sand/sand.r3e",
-      "size": 220,
-      "hash": "5988fc98b68cce3dc7bae7de83194a215c791b2f4882ec31832747fa72a79ba98c9f75c63600af1fc8452121cd35df8c3c940cc1b5e6334538d094ac9e44598c"
-    },
-    {
-      "path": "Map/Entity/e_pf/sand/sand.r3m",
-      "size": 198,
-      "hash": "f323187669ceaa97474486895663c3010f87abf4d1514d751f99c84b838fb873aae6cdcd804196479a2ca8b0cba2cac667b92a07b8e2995d2a69492db086fea4"
-    },
-    {
-      "path": "Map/Entity/e_pf/sand/sand.r3t",
-      "size": 87676,
-      "hash": "ea52fb57e3f1f6c821765444d9a2b64d343a9832a933d5d41bd56ffc2fba7ccc46a66e88eb39a226ca8ae5805ab7af2f50ce141f26e537f1c5deb9377ded3bd4"
-    },
-    {
-      "path": "Map/Entity/e_pf/smoke/smoke.r3e",
-      "size": 220,
-      "hash": "5988fc98b68cce3dc7bae7de83194a215c791b2f4882ec31832747fa72a79ba98c9f75c63600af1fc8452121cd35df8c3c940cc1b5e6334538d094ac9e44598c"
-    },
-    {
-      "path": "Map/Entity/e_pf/smoke/smoke.r3m",
-      "size": 198,
-      "hash": "07bdfcb5f6f59d02aa33ad91ce79c74e3ededcce4650bd31c834d6bc2b1558770ff94e29bd4977314b09618e251474ac642d7a947db14ae32fc7245bb1c031ea"
-    },
-    {
-      "path": "Map/Entity/e_pf/smoke/smoke.r3t",
-      "size": 43948,
-      "hash": "a1940f86e3db48bddcaa087f537b677a614eadd158045e5e09ccc7f2885861e982111e5728e08bc435e9763dbce475c4a525d3074db3ff5fbf78758c8dc79636"
-    },
-    {
-      "path": "Map/Entity/e_pf/snow/snow.r3e",
-      "size": 220,
-      "hash": "5988fc98b68cce3dc7bae7de83194a215c791b2f4882ec31832747fa72a79ba98c9f75c63600af1fc8452121cd35df8c3c940cc1b5e6334538d094ac9e44598c"
-    },
-    {
-      "path": "Map/Entity/e_pf/snow/snow.r3m",
-      "size": 198,
-      "hash": "296ecd01bae52655b5efbe4fe4107eb82179f4ee7d2612f80d9b93745f45d6cc31dd0c59e8e88b7f12571194376ca570bafeb7655d2e6dabc642132fd14c0e33"
-    },
-    {
-      "path": "Map/Entity/e_pf/snow/snow.r3t",
-      "size": 2996,
-      "hash": "bd265966362e11cd1a72194a781ec936f7f2753f59bd5cafb94bd35f567db73047ac278a2d32a983bca5a18db854f6072a5c0d72fc8617ba6842759b8d0a54ee"
-    },
-    {
-      "path": "Map/Entity/e_pf/snowdust/snowdust.r3e",
-      "size": 220,
-      "hash": "5988fc98b68cce3dc7bae7de83194a215c791b2f4882ec31832747fa72a79ba98c9f75c63600af1fc8452121cd35df8c3c940cc1b5e6334538d094ac9e44598c"
-    },
-    {
-      "path": "Map/Entity/e_pf/snowdust/snowdust.r3m",
-      "size": 198,
-      "hash": "1eae8e16585b86b64ba9087971527d9547be118ce7e6402a4b80fd5572ac9fd6274888118b3e986b9fd78fb9dc7cc13abd00139f6cafeef90f1baa3ca77a5b3b"
-    },
-    {
-      "path": "Map/Entity/e_pf/snowdust/snowdust.r3t",
-      "size": 87676,
-      "hash": "bd2a9d5aebb2e3bde36d033962d967b252b60b655ef7ffd5725b50ce23aeb4ad8cd3873c4c0a86996bfbd70a7d7a88067308497f6d46f2214d9b6d3981b5126a"
-    },
-    {
-      "path": "Map/Entity/e_pf/spkl_y/spkl_b.r3e",
-      "size": 208,
-      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
-    },
-    {
-      "path": "Map/Entity/e_pf/spkl_y/spkl_b.r3m",
-      "size": 198,
-      "hash": "d94bf8ed0ac71a78aa61049c05fe391f7c64b60f6692e4e6838bf309945c23b00ccc068ee03fffdf350c05190dba72d387e2cd18410accc8b010e8a473c9ec32"
-    },
-    {
-      "path": "Map/Entity/e_pf/spkl_y/spkl_b.r3t",
-      "size": 5756,
-      "hash": "819c7a9c34a448faf4fc5d59452d4adbdce8b08632a837e824ed25cae5b245255ca838b9baf6751e27236b63ad2418169529f1e058b1f25240be3e702efa0487"
-    },
-    {
-      "path": "Map/Entity/e_pf/spt/222.ebp",
-      "size": 22578,
-      "hash": "2568791158ba9577720a34bd14887cc2715e35976291075c0c1503adcfa2ed6c0c394d350fda90129f022b09313eb9998172d2f9265f119ca503df615a7ccd95"
-    },
-    {
-      "path": "Map/Entity/e_pf/spt/fe.spt",
-      "size": 457,
-      "hash": "3ba98aca9a25db980b32e9db871ee3728aa20e453419775cbe48882e7093b30eb5a38bf549d13747f5108141e3a44ba6e3a4e463514a151e8ad1a0f4c35937bf"
-    },
-    {
-      "path": "Map/Entity/e_pf/spt/fe2.spt",
-      "size": 813,
-      "hash": "5525ed31b369df0ecc3f2a87cdc9db656d19d116e446192d69d22529f10d1d6daf33c6e8c1af8abc1ca2b4f40cd4b88d9a6dc8967cecd5887695dc8e18f23725"
-    },
-    {
-      "path": "Map/Entity/e_pf/spt/pf_ring_02.spt",
-      "size": 333,
-      "hash": "9f402796b5f6df1552135beaf881ccc33e5167ad327de5d8cab33dfb9935048cef18ac09cca8d5dcd9de687c3192aaf47c4fe130f72de7ee85fc5ea8c71b64a2"
-    },
-    {
-      "path": "Map/Entity/e_pf/spt/pf_ring.spt",
-      "size": 329,
-      "hash": "29edb0f633241f2bf4034d5eb94faa2016774c110b26660e734948c3bc97a86c9c47bccfc4e3c0f7153410149196c9d3fcd91d0c0996e00c299aa6c25b2aec40"
-    },
-    {
-      "path": "Map/Entity/e_pf/spt/pf_smog.spt",
-      "size": 778,
-      "hash": "f0f47e06c946e0ebc0ac756101c049015d1f69b296f81698f6256b08707cd8adab10501c71f91c6d6f3eb52d538c571cbdee7ce6a9ba99f6dcee91ce501bed06"
-    },
-    {
-      "path": "Map/Entity/e_pf/spt/sand.spt",
-      "size": 736,
-      "hash": "30e8886a0b9ba057db51a1cf72087405f9d82534dd37a83fc5a9896285bc792eccd448c6555c2c40cd048099cddc03562fd2e243db5c6980931c4da0c16385d3"
-    },
-    {
-      "path": "Map/Entity/e_pf/spt/smoke_up.spt",
-      "size": 399,
-      "hash": "79e1b5d36f91834360d389f5561ebda0267c1aa7ea09e0d79df34d0a1cbcab57d6d8341a62e14b64481397afaf5935e9ffecf73cefa282d7e74c8c13b853a0da"
-    },
-    {
-      "path": "Map/Entity/e_pf/spt/snow.spt",
-      "size": 858,
-      "hash": "b7561778d00cd2f4d090d9b89338c92a2038acbc7ebfa1ce84992ca3a2f01dcf496e3c4d59e69de3ba13d8c70cbf1e40550411f6ccbf661f5b3be5fb08c7ab44"
-    },
-    {
-      "path": "Map/Entity/e_pf/spt/snowdust.spt",
-      "size": 747,
-      "hash": "f9b952f6d24c41ef72df9ed6f43361efae3ac409f9f3bd172ea6584f451de38e38917397d965c17001139b3549d3437fc88c77118fdfe3ed7accd6f43bf96ea2"
-    },
-    {
-      "path": "Map/Entity/e_pf/st_potal_a01/st_potal_b01.r3e",
-      "size": 13708,
-      "hash": "496353be7f9bd18b6fc65fc41bca866dcad30f3a2baf13afa3dcea8cc0ea2d6bf2aa1edda16c44a3ad6575304b5ff12d954e00b83c178114b848e4379c7ab9a5"
-    },
-    {
-      "path": "Map/Entity/e_pf/st_potal_a01/st_potal_b01.r3m",
-      "size": 578,
-      "hash": "8f78c6eb9187631e566cb6d8de070265ec63eadeb7d4f90f3c825264b0491f875503f43ea476284adfa06ea990a675e7e0dc24cfba683547174de3f97f081779"
-    },
-    {
-      "path": "Map/Entity/e_pf/st_potal_a01/st_potal_b01.r3t",
-      "size": 181052,
-      "hash": "bedebfce4851ce2c8ec37fa24b333cec64cb564fc4c1a9dbfee36587b71d799c24587c5d0fa6793417383a05f487b7f584324bdfd4313fa390a18058f4114cfe"
-    },
-    {
-      "path": "Map/Entity/e_pf/st_potal_b01/st_potal_b01.r3e",
-      "size": 13708,
-      "hash": "496353be7f9bd18b6fc65fc41bca866dcad30f3a2baf13afa3dcea8cc0ea2d6bf2aa1edda16c44a3ad6575304b5ff12d954e00b83c178114b848e4379c7ab9a5"
-    },
-    {
-      "path": "Map/Entity/e_pf/st_potal_b01/st_potal_b01.r3m",
-      "size": 578,
-      "hash": "8f78c6eb9187631e566cb6d8de070265ec63eadeb7d4f90f3c825264b0491f875503f43ea476284adfa06ea990a675e7e0dc24cfba683547174de3f97f081779"
-    },
-    {
-      "path": "Map/Entity/e_pf/st_potal_b01/st_potal_b01.r3t",
-      "size": 181052,
-      "hash": "4950871f5c3d14b5dc7e9de283bbcd081fe1d0f960ac590a991c3b9056d77d5bd9dd95adea01c8b1393805ce696834c08fe99b363e7b515cbf2af0bbedd9a1af"
-    },
-    {
-      "path": "Map/Entity/e_pf/st_potal_c01/st_potal_b01.r3e",
-      "size": 13708,
-      "hash": "496353be7f9bd18b6fc65fc41bca866dcad30f3a2baf13afa3dcea8cc0ea2d6bf2aa1edda16c44a3ad6575304b5ff12d954e00b83c178114b848e4379c7ab9a5"
-    },
-    {
-      "path": "Map/Entity/e_pf/st_potal_c01/st_potal_b01.r3m",
-      "size": 578,
-      "hash": "8f78c6eb9187631e566cb6d8de070265ec63eadeb7d4f90f3c825264b0491f875503f43ea476284adfa06ea990a675e7e0dc24cfba683547174de3f97f081779"
-    },
-    {
-      "path": "Map/Entity/e_pf/st_potal_c01/st_potal_b01.r3t",
-      "size": 181052,
-      "hash": "bc49292882d5229be2f5a38585a3171e87c34cd59169143bc27310d60336a2a02efb6721c5e106961da49de12f6d03fef5d215aeeaecaa48dcdcfcdf0ddc0653"
-    },
-    {
-      "path": "Map/Entity/MapEntity24.rpk",
-      "size": 825426,
-      "hash": "ee3c6415bc7176875ee6786ae50be825774483c7563d8e6290ae109a75744ea0a6f5cd61d90e9ccf1a391d8ff50a6aa3eb4bd8df283e6fe5f50c9b2eacc095fa"
-    },
-    {
-      "path": "Map/Entity/PG/PGLotoype.R3E",
-      "size": 910,
-      "hash": "dd5f3ce44485f87f12cd543260b77db289d3ec1f5c6bc7c53065f1857157a36668d40936514406f7c80f306ee3850bca7a862583b31c96bffdf9dbad7ad64d18"
-    },
-    {
-      "path": "Map/Entity/PG/PGLotoype.r3m",
-      "size": 198,
-      "hash": "9a2bf2958785aa2cf4cef1eb080328c5853f4791f648087e7380120af90a255a49c5d0d9cd76361f242f455e8dd6d60bcd498605e4b29385864c50667a84e49e"
-    },
-    {
-      "path": "Map/Entity/PG/PGLotoype.r3t",
-      "size": 1398396,
-      "hash": "f5ec3c7a5b9a653e7996116e4320a1569b9ed9dfce3f836d9aea90fefa0a07f6b783c7ebe4e86d5aca49ddaf73b2b8d3d45ed84e81989e5e228b099879673889"
+      "path": "Map/Entity/MapEntity65.rpk",
+      "size": 1367036,
+      "hash": "9d1a674306ed2e27b129aa3a2f93307b0b8bf17e7719b916e0a1e44da6807312fd6aced7ca0cbf7cebc7422fdcbb2df3abf22cb328d17497a2cd9b8445cfec45"
     },
     {
       "path": "Map/Entity/Xmas/2/8.R3E",
@@ -8869,13 +8224,13 @@
     },
     {
       "path": "Map/Entity/Xmas/5/booster_glwb.spt",
-      "size": 370,
-      "hash": "1aefee138c30729da259c3574611d82ac6cedf6ec27c2bebd4a3fd223dcc0491572e94cfd6e3907aa5a67950fce31624d84fca93b606076b5e5c8853b779f53b"
+      "size": 343,
+      "hash": "b24b7afef03344f760e79bb755d64ee50c9d0c501c441edd0e938eba77611f27dea3a3b5c9f36a84abbd3a921bea7d9fd7fd540b71281e7752204e41802e6406"
     },
     {
       "path": "Map/Entity/Xmas/5/splatter.spt",
-      "size": 312,
-      "hash": "f547ea6fd3be7bac74b30032643c2df9d786ee1d50ea917a72f6d1fa1d2604b84c0a68798d832ca5d8e534401fd84e8eeb2b7650329aeb574cf5ccd491380ce0"
+      "size": 290,
+      "hash": "2ca40f455254009a7578e989a21d0352b9b0c5fea5e83678df037a8cd93d5c8bdfa6f0140da0b703ca3d6832e1e9bd577922aa08b18e2bc51371f668caafa16d"
     },
     {
       "path": "Map/Entity/Xmas/5/splatter/splatter.r3e",
@@ -8894,8 +8249,8 @@
     },
     {
       "path": "Map/Entity/Xmas/5/wing_01.spt",
-      "size": 607,
-      "hash": "cf5e047289b078cecc17e436e3e4381eb3de67c9c949e5f6066ed1c04a0fd890e809ec2e26e8bd30128d371d63a10142063544ac675c1a0eee124711056b7061"
+      "size": 559,
+      "hash": "2b578eac96fc34baaadf412c83b87055cd50aa4b2f1adda1c6cb3af614519a1ea4cbf5b813739b980159af4f2ae1b2562187d9f12eb5c7e73c84b79f87be08bc"
     },
     {
       "path": "Map/Entity/Xmas/5/wing_01/wing_01.r3e",
@@ -8929,8 +8284,8 @@
     },
     {
       "path": "Map/Entity/Xmas/aur/fireplay.spt",
-      "size": 465,
-      "hash": "20b338d09b0337247511a081bc8d8693a394ebee664369db5b661f0f7ae61e5a328451f5286d73ba9ce64432f70d2e7e10ba134dc114373bdf15ed6d276d23f7"
+      "size": 434,
+      "hash": "abb0aafe1a51a09f8d11a5d2de497bf066641ceabb59d5487fc2f57704598bb5904f1716fd3c6e18eb08da5bf446c865985768ce242a63d361ee7e216a129ab2"
     },
     {
       "path": "Map/Entity/Xmas/aur/fireplay1/fireplay.r3e",
@@ -8949,43 +8304,43 @@
     },
     {
       "path": "Map/Entity/Xmas/aur/fireplay2.spt",
-      "size": 564,
-      "hash": "957d4d89f0db747915e813d88525b40f0d318d648db8b84eb325bd0e2978ebb8e28adb828fb72322506f2ebea5373d5e36c8c1c7deddc5edd4b585b43d3286ac"
+      "size": 529,
+      "hash": "e0dee651a7a1b1031460a3202c60a008e2dee2c6d63b3eef5f6637234742776db76dbfc4e49d872f47a8b9d2ed64aa7feef890fe150d212ecf73a5a56c265bd1"
     },
     {
       "path": "Map/Entity/Xmas/aur/fireplay2b.spt",
-      "size": 568,
-      "hash": "1e13d138b4795cb3f0d4a15c1bae56fa3e21378bf53f4f190718007e63be17492a910c3e07d80c730b46b002f0f9f22767cd5e13bac19dcbdd23cda77e4d625d"
+      "size": 533,
+      "hash": "7a5e9b7aca54411eb01ce731b7956f304c6f74e9198ccf29b7279ba66cb0ff0753a8925f89c42cb853b214aeb0e6c335990dbd25fd699b3ce6e12cae6019851d"
     },
     {
       "path": "Map/Entity/Xmas/aur/fireplay2c.spt",
-      "size": 565,
-      "hash": "6c311bf941b90ad72f0457da2510f91e0103a93da3453af13fbc9966aa8dd74242a3da5bc495361d54f4ea453f94b2ab1b752a2266fc55e698c9d3e697e3dac5"
+      "size": 530,
+      "hash": "c3bfa34cf9684988d4365bd1082811e41dc0b1a1a90b6a36e39c49535a84ff92a7cb7229fce776ddc0c5a67104fcaf0325e6b888bc1786683a5088e9ea5cf49e"
     },
     {
       "path": "Map/Entity/Xmas/aur/fireplay3.spt",
-      "size": 543,
-      "hash": "42de18568020585cc085b589a6699b329bf34abdebb41e928c50d9f09a40e3e364ce2795581386c512910876cd9306d902b7c89723683cbfd4d68d934314ab3e"
+      "size": 510,
+      "hash": "be77db1cb4f3d59b631b44652c0094b8dacd2c9f2201008bcd04d6409b07308523d9744a8c8017d93a26b52f61ffc71718f8e90023a016a409f1a1e70dea42da"
     },
     {
       "path": "Map/Entity/Xmas/aur/fireplay3b.spt",
-      "size": 449,
-      "hash": "6ce36f6d48eb863b13faf3770666e106dfd3e793e561fd0116f573fba901d807702ce402d13206df6d46fc5eabca6c4fe6e0982335d6ad924d70097e49a79bfe"
+      "size": 419,
+      "hash": "455000222d72ad3c4e142f4837c34e4b900da59c4f7247c7d40c2abd17a9a047ce9ca95ebd8b4bd0dd210fb5fcacf408dbdcd0e1a136db01d631b8e4ec1490bc"
     },
     {
       "path": "Map/Entity/Xmas/aur/fireplay4.spt",
-      "size": 544,
-      "hash": "72b07a6139d3d15a5e743f439b233a42c78301aa1898f4c75d481b4f86f74563e531b115ff2dcde4f57cf925427714caa2e4b67b0cfe1328a48c32b86c4ac48e"
+      "size": 511,
+      "hash": "0119ab08d61cfdd0caecf2aa336a7b45379e0ac036feac4ba1dbac291f0314af777b4441c6c1ab0ac22b6ccd9034744635116f31da83e6957ad72548ad83ad76"
     },
     {
       "path": "Map/Entity/Xmas/aur/fireplay4b.spt",
-      "size": 544,
-      "hash": "08830144da7c99b1e9c1d41ab7b98a92f209faaa9a72dc5cf35817236ab1c732b19568418e5bb07ee5237ca95c1e0b9fe3b83f63ec4c343ea96052e55ed51d33"
+      "size": 511,
+      "hash": "1f39b775314f4382a2966f461eaad6f84973f46f8dc06213541e459eb5789971c1fe6adc42f25d60b255342f59ee4d20ec6305d5e8c6f034bc445c0ca3cf3526"
     },
     {
       "path": "Map/Entity/Xmas/aur/fireplay4c.spt",
-      "size": 545,
-      "hash": "12338136f3ee07185d9f4741c0db7cac2a8e404a0d6a377611832da4322c2c0f2fa8f28981737747efafbacb775d71076b3f4285bb6136eee629979f75aea271"
+      "size": 512,
+      "hash": "f2a235ab1d7e36f28960f0ebac6e78709acd9d62059aa0c7c22bf3df5ac29e4f8be7155ef96efd2e46b1db7d9633900388890520c00b522a662662ec8b259c40"
     },
     {
       "path": "Map/Entity/Xmas/aur/fplay3b/fb.r3e",
@@ -9076,11 +8431,6 @@
       "path": "Map/Entity/Xmas/fan/elf_wo_garo02.r3t",
       "size": 306676,
       "hash": "a6d62f2c189ce680c06dc5bfce4b4dcf26bf72ad0ec40a649df74bb74d48f38d232866b2cf91b5183c0d86cf7e1fb1fdd8a3b00095990ec064062885151cdeaf"
-    },
-    {
-      "path": "Map/Entity/Xmas/fan/elf_wo_garo02.rar",
-      "size": 252583,
-      "hash": "18263592156be2d03a70b98f4144873aaddacb8a1e5ba5f94f810db7a32b55dd9fc5a5a31b80602b010d05fa77a0e9b6785bb87c4219cb304a27fe6c9601129a"
     },
     {
       "path": "Map/Entity/Xmas/fan3/elf_wo_garo03.r3e",
@@ -9324,8 +8674,8 @@
     },
     {
       "path": "Map/Entity/Xmas/Spr/01.spt",
-      "size": 462,
-      "hash": "dc8b9fc6f68e07127c489c3a610956de3381bd7f13a06bf53f44aa9605b99cfdb0403904226ec66d4c1c0ae014aa03ee0facf03cc80b261a0b5bd2bba3dab6a5"
+      "size": 427,
+      "hash": "3a4d1fc74dca0111bc6e63e282df914897618c1e3b9273cabe3767315a255cacec5bde06408b15b2a0fcddac75ed9d46dde2d526e5a044e4199e3304b0cc58b5"
     },
     {
       "path": "Map/Entity/Xmas/Spr/spkl/spkl.r3e",
@@ -9343,34 +8693,29 @@
       "hash": "bfa17c6f2a788b9f2a43de7b7ae606aff6bebbdb059d49e38f8b1057dbef53af0c2f681be71a11a3b7620eac311c3f0ce724ef73115281fc9eccc49abfdc6b59"
     },
     {
-      "path": "Map/Entity/Xmas/Spr/Spr.rar",
-      "size": 1992,
-      "hash": "2debcd2713373d61080609a4076ac8d8f7cc6f68508a9112e3cdfcc1b54b3136f84378cc5582f12d14626412763ea22c319903671ac1c7708e5171b0ca29e2aa"
-    },
-    {
       "path": "Map/Entity/Xmas/spt/1.spt",
-      "size": 414,
-      "hash": "b8d546a5cfb53ead1ea4e458d4cfcf2b448786cefd732a2d927de76769954b69c2190fdb812de10afcd11f60943f8b1b895f6d2ad44d6a36d72d45d3562b485b"
+      "size": 381,
+      "hash": "9324ba4dac23dcec799913f04e495274058949a198ad3e9d5aaf36fb6018fbd01a5e136d661e66a86be09c757dc82c0a65967bafb7dd8df662c6bf1bb842c5af"
     },
     {
       "path": "Map/Entity/Xmas/spt/2.spt",
-      "size": 366,
-      "hash": "fb4fcfef2dc3a28929a7cb5b4c023bcbbd95ac66735c82927781780a8bdb598413efb72297b0726b52cefa9a8b9c0967d7b8e02fa3d6e39ceda7f00d7239e02a"
+      "size": 335,
+      "hash": "842f98146dd623decc19933f482c79c8e5e12c64e00dadcefd1cb40a7c2fa6271217ae64b3069d4a382a7d38fb4f0c6672a036597ec6ddc06123ff802c8c6562"
     },
     {
       "path": "Map/Entity/Xmas/spt/3.spt",
-      "size": 485,
-      "hash": "37590e8859aec7eaa044878dbc809609add01fa62e137ce351e28430c141c8151efd1fede347251aa002a3b1291762544b0b836725d7fa70873c72035ecdff29"
+      "size": 445,
+      "hash": "a69114e56d2eaab2355c445cbd89ea6ce97ad4fba52e39c254fce8a57c2418be6843708568a574641560880ac21b6e8c9a9a2346a932663a74ef3671e7c2276b"
     },
     {
       "path": "Map/Entity/Xmas/spt/4.spt",
-      "size": 510,
-      "hash": "fe416d61817ce0a9e02896c4c38a3cbad601a684bbb198b6a5b170d13c039af708e3edcfc01370df454056ba41da62eaba4673407317ad2287fbfeabd9537735"
+      "size": 471,
+      "hash": "ff73bfd997043198e6a7fa29f20b30c34ee42f3c5fc4518905dae668daf01d3465863d3ef7c5b26f8082f108b19faef3b01f992c3f75c11e6ca36638961c599b"
     },
     {
       "path": "Map/Entity/Xmas/spt/5.spt",
-      "size": 503,
-      "hash": "b42cf44f8801c33802f15f31f65c5b09df1dd24f076225024de95c5544378c83327ccbdbbdb8e2e6128d2a87c66a33b65963536ddfb592f358c95e1dd196c665"
+      "size": 471,
+      "hash": "6e5a6f30072410c020703fde44f7af42c5f2fab35e661e0558d55cc636fcc2372d077bab90344fc8b74ad7fc0603dcd023206f856858aa9ee6ca891a8c80bd3d"
     },
     {
       "path": "Map/Entity/Xmas/spt/all_light_2/all_light_2.r3e",
@@ -9464,8 +8809,8 @@
     },
     {
       "path": "Map/Entity/Xmas/sptfair/fire_002.spt",
-      "size": 277,
-      "hash": "1ebec28bd9aaeb590240d811e927cbcd2e84bf76310dcf72225daf450965d51ef389037704382ea1443699cf4812cf961319f97de39e3279a7b5894deaeb557c"
+      "size": 247,
+      "hash": "9ebc3153ec7f2ed98f6215b40f65bfe469c4eb38737e2c422bb7b0c51ac6fd2a6a45422a85c31d02f7ee2c9784108776702885a061f741822caa5367f16c8b1a"
     },
     {
       "path": "Map/Entity/Xmas/steps/13.R3E",
@@ -9588,239 +8933,9 @@
       "hash": "9e86a4f7b085b35226ba67cc27fc379dcb82856b6b64042274770bd2a6f4af653c30984e25b5be37c968aae98f833a4cba40798e01fb862fc8ae4159247adbf9"
     },
     {
-      "path": "Map/Entity/Xmas2/2/20.R3E",
-      "size": 92024,
-      "hash": "196de7927353b505a9e4d85edba56411af38ebeed97a407cd4a8742217fa52f5550d39fe3a5f23178f10bc551f6f43b74138a0eaf29254694eb3766152446dde"
-    },
-    {
-      "path": "Map/Entity/Xmas2/2/20.r3m",
-      "size": 198,
-      "hash": "3825687f26265742e366896fc43c10617bc4f9366df4455b5384420e1d90f996142c447b147978eb51c721f18fa43cac9cdea7830107da8cc57984a704eda66d"
-    },
-    {
-      "path": "Map/Entity/Xmas2/2/20.r3t",
-      "size": 43972,
-      "hash": "1c1e070b3c2319b5c78c0d9d6b2e1321ea282ed2cb9a3795e94d03ad08c29f3184c8c845ff019388a081ecd86c94e940b21e2c1253c5de448f313bf8e4a8a89c"
-    },
-    {
-      "path": "Map/Entity/Xmas2/3/21.R3E",
-      "size": 170588,
-      "hash": "f3c19080a0924ac27dfbea23222b1a1de3aa189e1a023e613ce34362cdccb2d8835f5be718b8c6a11dc4963266cd43ef88a1a1f870119b3ef95435ac2966c6f3"
-    },
-    {
-      "path": "Map/Entity/Xmas2/3/21.r3m",
-      "size": 578,
-      "hash": "a3ace0d257466a8fb8b24214c81e5969d27994f6b958bbde5ec6db7355c02b4c886917ca9a94400863237da4d0b1af269e2191d62d1b333eee479d6bae796bdc"
-    },
-    {
-      "path": "Map/Entity/Xmas2/3/21.r3t",
-      "size": 394044,
-      "hash": "765a72c23c13bb95a3a1965852b78e0b0002620d40b7f1db73181d7a96d2417f271d5bbd640c24e5afdd79180d80ae9601c5721f6d70c594ec68f37458481b7f"
-    },
-    {
-      "path": "Map/Entity/Xmas2/4/24.R3E",
-      "size": 301458,
-      "hash": "929f362dcadfb8a02238012b296012092d4811ab53fb8c9099bf3c27ef9913db8d21189fa067950677cfbc34f6d73103c74e421e8bfecd295f5e9384005a8abc"
-    },
-    {
-      "path": "Map/Entity/Xmas2/4/24.r3m",
-      "size": 578,
-      "hash": "cd4cfa150350cf9bfdbb63c0d23ff036b4eeb6bad4f043899e516b742c8e80b0ea31fe120e7fe3d651f7136d3e608a3887bb86d7b228da1ed166b29ea3e85635"
-    },
-    {
-      "path": "Map/Entity/Xmas2/4/24.r3t",
-      "size": 1398656,
-      "hash": "3b65868a087823765947751039ad7828771f0c8a6940b23adca54fc4599ca12beb91b404310d636c060de8f5987ed3b159d7c717f58edc02302d50b9bc56a943"
-    },
-    {
-      "path": "Map/Entity/Xmas2/5/27.R3E",
-      "size": 67880,
-      "hash": "5c6327dc4e082cd20e35c5fe8c6b3dc433cdb10532af637130a4687bce945f8d4990da84d479478597846e5d7f5858c8fbf5cacde635f399a4c475b09ec0f635"
-    },
-    {
-      "path": "Map/Entity/Xmas2/5/27.r3m",
-      "size": 388,
-      "hash": "45234dc4d3da80848f1a36af4d23bd6617887fab94df5ffb34f22bf4a415e340d8ca13baced79b03c7c6f104b1c7dd1e18d12471675481805730f283413ea43e"
-    },
-    {
-      "path": "Map/Entity/Xmas2/5/27.r3t",
-      "size": 743320,
-      "hash": "3dbd9fbfc8c842c1c69aab71b07bd5b6bf72eefc38d9c8c89f9982c63570496df8d302e4bbc45fc42e36044c546204e8be0765501741490ec1647d8e367f6331"
-    },
-    {
-      "path": "Map/Entity/Xmas2/g_num50/g_num50.r3e",
-      "size": 9736,
-      "hash": "b0986213bb2e69d3d43b47a64bf7c8f60df2cfbe727309d836d95fe0605e996a6966542b6aff5a9ea67c2eabee7e095d9c22ebbab79290d33c4a1638f468aee7"
-    },
-    {
-      "path": "Map/Entity/Xmas2/g_num50/g_num50.r3m",
-      "size": 480,
-      "hash": "bb6c234458ba832442c0266cbaed73ae6c8cfdb889de2e429355fb2389ff38a003aca9cfde4d44ec6ca1c704e1d6c6cc0193f90a11728158efa4296378459b18"
-    },
-    {
-      "path": "Map/Entity/Xmas2/g_num50/g_num50.r3t",
-      "size": 109760,
-      "hash": "a4761ae6cd8684539a5cc1fe3ea079ef91879b3bb2ccaeb667eb2bda3f9004cf1e284c5966fb4a8a6b9d6d91b914a247122d87135c240342692c85ff73e013e5"
-    },
-    {
-      "path": "Map/Entity/Xmas2/spt/fe.spt",
-      "size": 457,
-      "hash": "3ba98aca9a25db980b32e9db871ee3728aa20e453419775cbe48882e7093b30eb5a38bf549d13747f5108141e3a44ba6e3a4e463514a151e8ad1a0f4c35937bf"
-    },
-    {
-      "path": "Map/Entity/Xmas2/spt/fe2.spt",
-      "size": 813,
-      "hash": "5525ed31b369df0ecc3f2a87cdc9db656d19d116e446192d69d22529f10d1d6daf33c6e8c1af8abc1ca2b4f40cd4b88d9a6dc8967cecd5887695dc8e18f23725"
-    },
-    {
-      "path": "Map/Entity/Xmas2/spt/pf_ring_02.spt",
-      "size": 333,
-      "hash": "9f402796b5f6df1552135beaf881ccc33e5167ad327de5d8cab33dfb9935048cef18ac09cca8d5dcd9de687c3192aaf47c4fe130f72de7ee85fc5ea8c71b64a2"
-    },
-    {
-      "path": "Map/Entity/Xmas2/spt/pf_ring.spt",
-      "size": 329,
-      "hash": "29edb0f633241f2bf4034d5eb94faa2016774c110b26660e734948c3bc97a86c9c47bccfc4e3c0f7153410149196c9d3fcd91d0c0996e00c299aa6c25b2aec40"
-    },
-    {
-      "path": "Map/Entity/Xmas2/spt/pf_smog.spt",
-      "size": 778,
-      "hash": "f0f47e06c946e0ebc0ac756101c049015d1f69b296f81698f6256b08707cd8adab10501c71f91c6d6f3eb52d538c571cbdee7ce6a9ba99f6dcee91ce501bed06"
-    },
-    {
-      "path": "Map/Entity/Xmas2/spt/sand.spt",
-      "size": 736,
-      "hash": "30e8886a0b9ba057db51a1cf72087405f9d82534dd37a83fc5a9896285bc792eccd448c6555c2c40cd048099cddc03562fd2e243db5c6980931c4da0c16385d3"
-    },
-    {
-      "path": "Map/Entity/Xmas2/spt/smoke_up.spt",
-      "size": 399,
-      "hash": "79e1b5d36f91834360d389f5561ebda0267c1aa7ea09e0d79df34d0a1cbcab57d6d8341a62e14b64481397afaf5935e9ffecf73cefa282d7e74c8c13b853a0da"
-    },
-    {
-      "path": "Map/Entity/Xmas2/spt/snow.spt",
-      "size": 858,
-      "hash": "b7561778d00cd2f4d090d9b89338c92a2038acbc7ebfa1ce84992ca3a2f01dcf496e3c4d59e69de3ba13d8c70cbf1e40550411f6ccbf661f5b3be5fb08c7ab44"
-    },
-    {
-      "path": "Map/Entity/Xmas2/spt/snowdust.spt",
-      "size": 747,
-      "hash": "f9b952f6d24c41ef72df9ed6f43361efae3ac409f9f3bd172ea6584f451de38e38917397d965c17001139b3549d3437fc88c77118fdfe3ed7accd6f43bf96ea2"
-    },
-    {
-      "path": "Map/Entity/Xmas2/st_potal_a01/st_potal_b01.r3e",
-      "size": 13708,
-      "hash": "496353be7f9bd18b6fc65fc41bca866dcad30f3a2baf13afa3dcea8cc0ea2d6bf2aa1edda16c44a3ad6575304b5ff12d954e00b83c178114b848e4379c7ab9a5"
-    },
-    {
-      "path": "Map/Entity/Xmas2/st_potal_a01/st_potal_b01.r3m",
-      "size": 578,
-      "hash": "8f78c6eb9187631e566cb6d8de070265ec63eadeb7d4f90f3c825264b0491f875503f43ea476284adfa06ea990a675e7e0dc24cfba683547174de3f97f081779"
-    },
-    {
-      "path": "Map/Entity/Xmas2/st_potal_a01/st_potal_b01.r3t",
-      "size": 181052,
-      "hash": "bedebfce4851ce2c8ec37fa24b333cec64cb564fc4c1a9dbfee36587b71d799c24587c5d0fa6793417383a05f487b7f584324bdfd4313fa390a18058f4114cfe"
-    },
-    {
-      "path": "Map/Entity/Xmas2/st_potal_b01/st_potal_b01.r3e",
-      "size": 13708,
-      "hash": "496353be7f9bd18b6fc65fc41bca866dcad30f3a2baf13afa3dcea8cc0ea2d6bf2aa1edda16c44a3ad6575304b5ff12d954e00b83c178114b848e4379c7ab9a5"
-    },
-    {
-      "path": "Map/Entity/Xmas2/st_potal_b01/st_potal_b01.r3m",
-      "size": 578,
-      "hash": "8f78c6eb9187631e566cb6d8de070265ec63eadeb7d4f90f3c825264b0491f875503f43ea476284adfa06ea990a675e7e0dc24cfba683547174de3f97f081779"
-    },
-    {
-      "path": "Map/Entity/Xmas2/st_potal_b01/st_potal_b01.r3t",
-      "size": 181052,
-      "hash": "4950871f5c3d14b5dc7e9de283bbcd081fe1d0f960ac590a991c3b9056d77d5bd9dd95adea01c8b1393805ce696834c08fe99b363e7b515cbf2af0bbedd9a1af"
-    },
-    {
-      "path": "Map/Entity/Xmas2/st_potal_c01/st_potal_b01.r3e",
-      "size": 13708,
-      "hash": "496353be7f9bd18b6fc65fc41bca866dcad30f3a2baf13afa3dcea8cc0ea2d6bf2aa1edda16c44a3ad6575304b5ff12d954e00b83c178114b848e4379c7ab9a5"
-    },
-    {
-      "path": "Map/Entity/Xmas2/st_potal_c01/st_potal_b01.r3m",
-      "size": 578,
-      "hash": "8f78c6eb9187631e566cb6d8de070265ec63eadeb7d4f90f3c825264b0491f875503f43ea476284adfa06ea990a675e7e0dc24cfba683547174de3f97f081779"
-    },
-    {
-      "path": "Map/Entity/Xmas2/st_potal_c01/st_potal_b01.r3t",
-      "size": 181052,
-      "hash": "bc49292882d5229be2f5a38585a3171e87c34cd59169143bc27310d60336a2a02efb6721c5e106961da49de12f6d03fef5d215aeeaecaa48dcdcfcdf0ddc0653"
-    },
-    {
-      "path": "Map/Entity/xs/1/fireplay.spt",
-      "size": 461,
-      "hash": "7cd37c17c66f46c0ac120900246487b41f3a3b380b1298828ca244994f2787f9df173395c8ea6ad776ea8fb139269a2af5b71bd860055e53d7d02b8e1b80f02d"
-    },
-    {
-      "path": "Map/Entity/xs/1/fireplay1/fireplay.r3e",
-      "size": 1062,
-      "hash": "50cb9439bc49651c0df5862e360acf22ac1c9cc634c7de637add27dc035f4c141975e4de90ba2608b0a7bd447dc38b0d851db91200e652bd5a340281954c307f"
-    },
-    {
-      "path": "Map/Entity/xs/1/fireplay1/fireplay.r3m",
-      "size": 198,
-      "hash": "09d2ce3cfe9e2a24e2c5c34086baf35c99b20846a6e1e751d07830126a20cff2c32a64f69d784d660398081c63bcd5c3fff84bfdec97f7f1d955e69d16e42c6d"
-    },
-    {
-      "path": "Map/Entity/xs/1/fireplay1/fireplay.r3t",
-      "size": 964,
-      "hash": "b9eefb5166232f979253f990966a5e9821ea982beac769bff760ff0f75a74ef13bb7c7bca0513713a2db79a4c642bec97f475b97d0c932d839ba1db4377623fd"
-    },
-    {
-      "path": "Map/Entity/xs/1/fireplay2.spt",
-      "size": 560,
-      "hash": "4dbb0d62eeaa4e99b1edc99c595aff36465b271d65836bf4902121e61ecec9fa0510abe5b6c5b6f19482eb697d5bf87065c8171d62d37c049660d3429a8cda15"
-    },
-    {
-      "path": "Map/Entity/xs/1/spkl/spkl.r3e",
-      "size": 208,
-      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
-    },
-    {
-      "path": "Map/Entity/xs/1/spkl/spkl.r3m",
-      "size": 198,
-      "hash": "14acc328abc2a7f4680a96dc117704c5ce6a4f0112c03a5d558595550022952396fc4545984c6603f1b8b812aff8219c4bcbf99beada8bc14e084f90f6c14066"
-    },
-    {
-      "path": "Map/Entity/xs/1/spkl/spkl.r3t",
-      "size": 2998,
-      "hash": "0cb7ae2f3dfa3c7ca18e752a3193153f83dc514f25c57e7c517d76ec960026523ac6793b4ee85b090dad12d06f0f44bf4ece68c6c46904fc479d551fbf837249"
-    },
-    {
-      "path": "Map/Entity/xs/2/fplay5a.spt",
-      "size": 445,
-      "hash": "30242a877d3d93d68321fa2e4857c51889e388334270d58de0c07370e7545c4e2490918ce539f0ddaa9c32022ec9f886f9b05ffbe18e2bd05e5aeab51fc7390f"
-    },
-    {
-      "path": "Map/Entity/xs/2/fplay5a/fplay5.r3e",
-      "size": 586,
-      "hash": "b28fde173072f9256f4a2b87ae6f6a001f3faf76b7d0c52c53df52e7271350bb678db9ae84c2a95261b773ed69781888b59caee85c42319112bd721a05f33729"
-    },
-    {
-      "path": "Map/Entity/xs/2/fplay5a/fplay5.r3m",
-      "size": 198,
-      "hash": "09d2ce3cfe9e2a24e2c5c34086baf35c99b20846a6e1e751d07830126a20cff2c32a64f69d784d660398081c63bcd5c3fff84bfdec97f7f1d955e69d16e42c6d"
-    },
-    {
-      "path": "Map/Entity/xs/2/fplay5a/fplay5.r3t",
-      "size": 964,
-      "hash": "be419c23d0429e99af6b82053d99d51276d8aa5c67304be3b4b482bd33ed4bcee1e2e98ab90e47d2113364e48c91ff61dd362656224b43912f3d0346e0c598f5"
-    },
-    {
-      "path": "Map/Exile_Land/Exile_Land.bsp",
-      "size": 5778543,
-      "hash": "1f557af0ce131f9e670fcc99882d2c19b94eab233edce03288d964c75045d77daea1981df166507294c58252442b79c7450ca20aebfb69e5a09bb43661410b7f"
-    },
-    {
       "path": "Map/Exile_Land/Exile_land.ebp",
-      "size": 714020,
-      "hash": "2d7395e726a260d72a1997b7cc87a3e69e6c6f622987af46e8ee5dd1a293d7a80c86f8a1c45fc4bb9807faa2cc22f881bff76117ce3d116d043744d2554f1b8f"
+      "size": 698118,
+      "hash": "c28de9c522d3565cf1cf7da4b6c621496eeb9169d47bbf52922f7dccaa252660229b3997ad1ae13af2b6a18d9cef1db503048d281490364b9f264cae9cd60584"
     },
     {
       "path": "Map/Exile_Land/Exile_Land.r3m",
@@ -9829,33 +8944,33 @@
     },
     {
       "path": "Map/Exile_Land/Exile_Land.r3t",
-      "size": 6992468,
-      "hash": "56924e5c59ce0f9b86113e9cf04e05c4ce7f5e0a844a01426f7d98bc7c029acbfb7f0c62e8f413dbc829414e5483d3f5ec2517a49ce2d5d5ef6925ff43b9fd0d"
+      "size": 9788724,
+      "hash": "14abd0081aecb0e73ec04aae1b6428120d047d43c84c8ee05e0b974c712f75072ad2172e1a0ad9bdfa36d7cd5638be192386da92ff16e42850c161753a7eaf4a"
     },
     {
       "path": "Map/Exile_Land/Exile_Land.r3x",
       "size": 1036,
-      "hash": "09dba20b4935fe1b765b7ef3c8e31c01591c1b955681771d4b1a9a323c9e92ba22e192d1d59001e3f803e10a99bbc0995785ef20795e3bea9ed2a9fab6a81f65"
+      "hash": "357254ac05f58f1bae5be26baee070f7f2d36960dfd86b981319016d67e21048b217248a86b28e193cd87897bd0bd8887bc0c0cb152ef3ab4efada77717761d3"
     },
     {
       "path": "Map/Exile_Land/Exile_LandLgt.r3t",
       "size": 2097292,
-      "hash": "81617a87c93ce3f51de6eda4df5c89e4dffa59c57b2d205b4766a4be9cb8c223d62b0ece2944cf894b85caec702d7a72f1ce4059b2058d3b22f97e5dd1b71437"
+      "hash": "3e5ecce3fabdb45a847091a80931b60af014a9d0e021e5caedb15e3d83730a4dbf0804bae66ea6358b37bf5ab221a93646b0cdbc8ce7307acfd526bfc5e72008"
     },
     {
       "path": "Map/Exile_Land/Sky/exile_landsky.r3e",
-      "size": 32944,
-      "hash": "6d12614f41244c6c1a3ea61b2e66e8578047543e8e81e4a2a9fff5eb760605700c7d17ccba74f13d3e9244ca34ee8cfe3446d1d3a537adfbc6191eabc3f61cfb"
+      "size": 28022,
+      "hash": "fbeb405d8b83551b7809075332717b288c960ea7a26b4548fa0c1a510aaf8a6eeb2e3419a1e327e8809a40489fa03424321f879a1f957b73617b54cd7ed7e320"
     },
     {
       "path": "Map/Exile_Land/Sky/exile_landsky.r3m",
-      "size": 2478,
-      "hash": "78f90d8e86783fd5e65efbef39de512488943b10b2433feec82fbbb31f7b5f4ff6d8e96b3594171ae02da53fd389e652a74d31879d333c074b267b60ae533a89"
+      "size": 1908,
+      "hash": "88773b3a8d1c0dc5934dd8064f655dc91b1e6c06f68d876ce4dc52389fe8122ff602a061b73fa56338e13d58c052e6023acf5c8a7abe7a97489727db798d8814"
     },
     {
       "path": "Map/Exile_Land/Sky/exile_landsky.r3t",
-      "size": 15470276,
-      "hash": "c42045157ab31ab5598b8096ed6fa0bb7f111d0a0fd77cf74aabc0d8c2d8168dfd0344d4d34918c8962e58441622134b388c7936b287e4a42778bbcdf41e8ff6"
+      "size": 3913176,
+      "hash": "b9d17e1bb646874498727d96775fa40982288b78aedae8f032881425cacb3a36ce5b5929eb20e924371c9ac61d811d1b9c0c1a4daae575c8236bf646b412e8fa"
     },
     {
       "path": "Map/Lobby/lobby.ebp",
@@ -9893,14 +9008,24 @@
       "hash": "f429c9ed894b1743a250e4570f477e54f819d1130a32a7d68eabd98d0ecffb43e5b497657b1ee898d8a69dfe0963a822731c333c6460b947a29c15a03e09e50d"
     },
     {
+      "path": "Map/Medicallab/Medicallab.r3t",
+      "size": 35085920,
+      "hash": "4af8e2e2777decb2f75ef43952d352c76d44a1d9defe7f664a333a66e8e8bb9b3a7561b1e748ba8a1d93e0d0cbb1bea6f1af46b8d837ae57507a367d6e645a44"
+    },
+    {
+      "path": "Map/Medicallab/Medicallab.r3x",
+      "size": 1036,
+      "hash": "357254ac05f58f1bae5be26baee070f7f2d36960dfd86b981319016d67e21048b217248a86b28e193cd87897bd0bd8887bc0c0cb152ef3ab4efada77717761d3"
+    },
+    {
       "path": "Map/Mountain_Beast/Mountain_Beast.bsp",
       "size": 6675612,
       "hash": "16405d6628dbe0c9158cca0f3943fce4121f8ab5c9b62c674c11a816bf51ba292485bf98758a780182661b8b852a8013246f7e4b309d4f9eb302843f9eacf08e"
     },
     {
       "path": "Map/Mountain_Beast/Mountain_Beast.ebp",
-      "size": 494690,
-      "hash": "090775f586dde4ab3dc6673187c2d2043cf757b40b1e41688304df4ac7af57e9a98d323055902f1dccbb29088094d28f61c94f04ce01d295a1d5c3942c90cca6"
+      "size": 389792,
+      "hash": "3554c8fd433c8a14937b700c6c7f24cf633f1d05db7117d07b7bc36614c8371d9c53cc34e0c2948ddf4ea7327aa985abbdd69d8f6927cf1d05c2af2d51e678c6"
     },
     {
       "path": "Map/Mountain_Beast/Mountain_Beast.r3m",
@@ -9909,38 +9034,38 @@
     },
     {
       "path": "Map/Mountain_Beast/Mountain_Beast.r3t",
-      "size": 10753812,
-      "hash": "6262c13a150d9271f60e87c0e836a0cadc90d87343cc867bdbc609ffecfa050c9b954a273234c615e8a74e537caac47a6d8133dedb6737ba1a6096138cc7b941"
+      "size": 11715100,
+      "hash": "a076216e338a2212cb9a60d6f700e71756cc651fdcbb2deaf1f467a7b38a08ebaad20321e61b4a0380294d42dec8d1f737485837dc34fd26c28423207939a059"
     },
     {
       "path": "Map/Mountain_Beast/Mountain_Beast.r3x",
       "size": 1036,
-      "hash": "2f1263274f88decf00aa3f06ec057719cd45815f3a72d99dd9f9b2712355ea4f018e77811dba5f8035dc627228fc4fca8d4b46ae932daeaa2c258672dc9ca6f9"
+      "hash": "357254ac05f58f1bae5be26baee070f7f2d36960dfd86b981319016d67e21048b217248a86b28e193cd87897bd0bd8887bc0c0cb152ef3ab4efada77717761d3"
     },
     {
       "path": "Map/Mountain_Beast/Mountain_BeastLgt.r3t",
       "size": 2359700,
-      "hash": "d6a81a988aa2cbd187f3c08e9b40a6162b37bb14966e9f3e81c592cf444ff688a89022835cb55854794303cd5b2451436818ecedfdbeeaf62d75d34b11a4e738"
+      "hash": "2465589849964eeb380c23def39aa520196ca5bf87cd49213ce239bd1d67323a246bbe344d1b597ed2087656e2594e8fc92eaa56e8f3a32757f4ca9c2f764d20"
     },
     {
       "path": "Map/Mountain_Beast/Sky/mountain_beastsky.r3e",
-      "size": 54832,
-      "hash": "83d9c785201295f55296caaf0dde763198c24d0dcb70cc99f23f0af222b72b5481b4a1200097faf0e7a747fd01ce44f2751ad5a226933c2bea01bf519680a79a"
+      "size": 28022,
+      "hash": "fbeb405d8b83551b7809075332717b288c960ea7a26b4548fa0c1a510aaf8a6eeb2e3419a1e327e8809a40489fa03424321f879a1f957b73617b54cd7ed7e320"
     },
     {
       "path": "Map/Mountain_Beast/Sky/mountain_beastsky.r3m",
-      "size": 2996,
-      "hash": "70c6e6fa265ed90725a4842be5c41f07f7bb4d4fdc093ab46ed07080db0171174448f44d046af5f7131fe3f8da4717d549dd87b49d3c3204659eae6e9abe3181"
+      "size": 1908,
+      "hash": "88773b3a8d1c0dc5934dd8064f655dc91b1e6c06f68d876ce4dc52389fe8122ff602a061b73fa56338e13d58c052e6023acf5c8a7abe7a97489727db798d8814"
     },
     {
       "path": "Map/Mountain_Beast/Sky/mountain_beastsky.r3t",
-      "size": 8401480,
-      "hash": "f853525c0a5a50559a0aebd7ea75eb1a43ad86b3330879867730e68e0cad4d6604dab3e2d35ee1c422311b74d9d0d966a240d1e9b4aef40a3302cbe37f65da75"
+      "size": 3913176,
+      "hash": "b9d17e1bb646874498727d96775fa40982288b78aedae8f032881425cacb3a36ce5b5929eb20e924371c9ac61d811d1b9c0c1a4daae575c8236bf646b412e8fa"
     },
     {
       "path": "Map/neutralA/neutralA.ebp",
-      "size": 755010,
-      "hash": "b67dc97fdfc125aa375a7e9964c00d39ef4e86c0555e3d7b3926c899ba4887a16c6879f55b94587dc142392953d0165d0e85f7c4ef597f10b6d6d792cbf8b63a"
+      "size": 768268,
+      "hash": "d1007db1046062b1e5e9f7b4013930ce45070f89c7d7fb2a8c9929ea081eaffce02a5d9841352a58c5cef8d0dddc940502e4a2178d322db82f7dd3d7b0f69f7c"
     },
     {
       "path": "Map/neutralA/neutralA.r3t",
@@ -9953,39 +9078,14 @@
       "hash": "357254ac05f58f1bae5be26baee070f7f2d36960dfd86b981319016d67e21048b217248a86b28e193cd87897bd0bd8887bc0c0cb152ef3ab4efada77717761d3"
     },
     {
-      "path": "Map/neutralA/Sky/neutralasky.r3e",
-      "size": 494056,
-      "hash": "e128ba77b974ae29bf4f2f853a6bbfc4b4f3b457f46c255d0d05e559e062cb239e62a1b1e54994dafd146dbd4bb1b88098414045df5f242f43bcc1a0a3e76adb"
-    },
-    {
-      "path": "Map/neutralA/Sky/neutralasky.r3m",
-      "size": 2478,
-      "hash": "643a7f4560e1fbc2efbf5a2faec02452aae94407dd8b8c08d3dc039fc789140e6a8c98e1e32a1b9c3fac7b160e6bf4db8e6530043a3d80cab9cb687a2435ac6b"
-    },
-    {
-      "path": "Map/neutralA/Sky/neutralasky.r3t",
-      "size": 4700468,
-      "hash": "20710f4e6b1790dd68061c5a1f3eb61b3e1c6ba1cc880fd63b16be1f0fec50e28840badcdf441a0a4c65073bf98779b4d1c0784af3f3fb8d6232d6b49a763ca1"
-    },
-    {
-      "path": "Map/neutralA/sky2/neutralAsky2.r3e",
-      "size": 20312,
-      "hash": "9763772d8e0be840d81de9c5d096190849091fc12169690409b4e3202a5c818238888077a0b8572b318bc89f891d391d64c554b9d02f055dadab3b3ec1cd47a5"
-    },
-    {
-      "path": "Map/neutralA/sky2/neutralAsky2.r3m",
-      "size": 1954,
-      "hash": "799f5f0ceb51e73e2e90967b223db6c76f7f80f567e3637b38e9e82afd4cadbee689c966171740d611be7e1e7073a580d1e8f312a8e65bdab1e483527ddaaef9"
-    },
-    {
-      "path": "Map/neutralA/sky2/neutralAsky2.r3t",
-      "size": 5420592,
-      "hash": "96bc9a8aa153e76e19b6b08a142ed3804ed33899cf99391cdac8fe0aee254a147a8c2a613af14dc9e6b61803c3263455313981f6587fbe8b5eadf5a86d235f08"
+      "path": "Map/neutralA/neutralALgt.r3t",
+      "size": 14680996,
+      "hash": "e0ed9402e5286cd4006b196a6ca816a3c54e693321e7cfba00cf0ef81352b48ad3086db11029d9c1723d7a0b0ea88a1c182fc0eedfb7212be583533b68ea0fe0"
     },
     {
       "path": "Map/neutralAS1/NeutralAS1.ebp",
-      "size": 457736,
-      "hash": "4102e077a7d224b21d94dbcd5afef45b32e487b83992d3c10d880b6468173c529d3691cae4d884078c5c34ca3ce6dcbb7d5f4dae882c34f6d062ac6005be8329"
+      "size": 460020,
+      "hash": "3a1fb1918655eff649e57c24df353c697fb55f433d30f300dec9a3033019d8db06d8d9c23d51a24fa5b98d08aeb9d10863ff70bcebde4aa4ffafb1286fa4c39a"
     },
     {
       "path": "Map/neutralAS1/neutralAS1.r3t",
@@ -10003,24 +9103,9 @@
       "hash": "0d6430d42ebc41f5cc98bf8db3e32e9aba801a70ae0230e0f86e7493d1409c4ad88ea242feef7599b394f0a1197c49889446c3cd691fbe4a192f8d47066cb0c4"
     },
     {
-      "path": "Map/neutralAS1/Sky/neutralas1sky.r3e",
-      "size": 28022,
-      "hash": "fbeb405d8b83551b7809075332717b288c960ea7a26b4548fa0c1a510aaf8a6eeb2e3419a1e327e8809a40489fa03424321f879a1f957b73617b54cd7ed7e320"
-    },
-    {
-      "path": "Map/neutralAS1/Sky/neutralas1sky.r3m",
-      "size": 1908,
-      "hash": "88773b3a8d1c0dc5934dd8064f655dc91b1e6c06f68d876ce4dc52389fe8122ff602a061b73fa56338e13d58c052e6023acf5c8a7abe7a97489727db798d8814"
-    },
-    {
-      "path": "Map/neutralAS1/Sky/neutralas1sky.r3t",
-      "size": 3913176,
-      "hash": "b9d17e1bb646874498727d96775fa40982288b78aedae8f032881425cacb3a36ce5b5929eb20e924371c9ac61d811d1b9c0c1a4daae575c8236bf646b412e8fa"
-    },
-    {
       "path": "Map/neutralAS2/NeutralAS2.ebp",
-      "size": 379974,
-      "hash": "db45df37fb2f42d8197dd63b1d336303cf6650f92bd1d0f8bbd41b55c556db1b1b598fa318fc1bf3add7799d08d051d97e6f16ad78d7c62ca40f3e985d342dd9"
+      "size": 378772,
+      "hash": "528833a18cd502e485871bff04cf54beb9b07e6b1a38fe11f90a8ffe448e766bb7f8fd4e9f8f6ef2dafa23b1c47eede542b326def17f33e6f1ed340603dee2b0"
     },
     {
       "path": "Map/neutralAS2/neutralAS2.r3t",
@@ -10038,24 +9123,9 @@
       "hash": "2e147bdfd7d47fca8cb30eb5f5f0f0a4ab08988a98ce4fa70b1844aafdafbd383b4b7c6f60be26a0b0c7c315aad81c47fbd42b246e184ae843dadb3bd1ddfc68"
     },
     {
-      "path": "Map/neutralAS2/Sky/neutralas2sky.r3e",
-      "size": 28022,
-      "hash": "fbeb405d8b83551b7809075332717b288c960ea7a26b4548fa0c1a510aaf8a6eeb2e3419a1e327e8809a40489fa03424321f879a1f957b73617b54cd7ed7e320"
-    },
-    {
-      "path": "Map/neutralAS2/Sky/neutralas2sky.r3m",
-      "size": 1908,
-      "hash": "88773b3a8d1c0dc5934dd8064f655dc91b1e6c06f68d876ce4dc52389fe8122ff602a061b73fa56338e13d58c052e6023acf5c8a7abe7a97489727db798d8814"
-    },
-    {
-      "path": "Map/neutralAS2/Sky/neutralas2sky.r3t",
-      "size": 3913176,
-      "hash": "b9d17e1bb646874498727d96775fa40982288b78aedae8f032881425cacb3a36ce5b5929eb20e924371c9ac61d811d1b9c0c1a4daae575c8236bf646b412e8fa"
-    },
-    {
       "path": "Map/NeutralB/neutralB.ebp",
-      "size": 717914,
-      "hash": "80a764f87a4d47c29ab1d86ce6b35095bbfa4d2f3140d56c38dfaea5112dc53dba137ee9c6073edbb85867ae915e764384596f31ae0ae23eaacd5708ae1cbc3e"
+      "size": 733504,
+      "hash": "924e526e6928aa8d4e13262d499524e1ef2bc36d0423c935384193875ae5469408ec9cc245d8f6ec9dd80893ae314694bbffd3ce7a16c03b49637b39af834dfd"
     },
     {
       "path": "Map/NeutralB/NeutralB.r3t",
@@ -10068,39 +9138,14 @@
       "hash": "357254ac05f58f1bae5be26baee070f7f2d36960dfd86b981319016d67e21048b217248a86b28e193cd87897bd0bd8887bc0c0cb152ef3ab4efada77717761d3"
     },
     {
-      "path": "Map/NeutralB/Sky/neutralbsky.r3e",
-      "size": 310628,
-      "hash": "5ccf2aa28fa9ea9a1340f0f3586325bf912b775484be8b828dd4876eca0c1b7307def53a84da8a08feff2cb2f15598d75703101f4da43910c258c012f5284aac"
-    },
-    {
-      "path": "Map/NeutralB/Sky/neutralbsky.r3m",
-      "size": 2478,
-      "hash": "cbc96d227cbef6e4908b1f0bbbce7e5ae75e5e441ef8ce04432aa16e9c823a11ce2effeeabd10252e0e702987e9ec5154f69f7eeaae65eca636c7f323b2fd923"
-    },
-    {
-      "path": "Map/NeutralB/Sky/neutralbsky.r3t",
-      "size": 4962644,
-      "hash": "26251a2307fc79ee8b1a8ba0e0a3e9f0b54c593351927dd4a0b7c1b7722fbc11098285425c4ce02711a19c670c8faca228c6c277ad64fe895da9054f87a51c84"
-    },
-    {
-      "path": "Map/NeutralB/sky2/neutralBsky2.r3e",
-      "size": 20312,
-      "hash": "9763772d8e0be840d81de9c5d096190849091fc12169690409b4e3202a5c818238888077a0b8572b318bc89f891d391d64c554b9d02f055dadab3b3ec1cd47a5"
-    },
-    {
-      "path": "Map/NeutralB/sky2/neutralBsky2.r3m",
-      "size": 1954,
-      "hash": "799f5f0ceb51e73e2e90967b223db6c76f7f80f567e3637b38e9e82afd4cadbee689c966171740d611be7e1e7073a580d1e8f312a8e65bdab1e483527ddaaef9"
-    },
-    {
-      "path": "Map/NeutralB/sky2/neutralBsky2.r3t",
-      "size": 5420592,
-      "hash": "96bc9a8aa153e76e19b6b08a142ed3804ed33899cf99391cdac8fe0aee254a147a8c2a613af14dc9e6b61803c3263455313981f6587fbe8b5eadf5a86d235f08"
+      "path": "Map/NeutralB/neutralBLgt.r3t",
+      "size": 12714916,
+      "hash": "af6a849e1846e8a3c0cd162bc787d3b1668995e1080d6c88a103accde2394415bdc47164b352b3ef6d6d0b14bb23f6804ecfc632744d7dc818bd5b92d10ae25a"
     },
     {
       "path": "Map/neutralBS1/NeutralBS1.ebp",
-      "size": 677198,
-      "hash": "0dd243943a01ded142e9f82121d210733022f275b88316ca43b5e11e2b86024b1bd086ab7917dad08ebb50936f251308bab8293af1dbb025027518ac4ee8cf10"
+      "size": 646294,
+      "hash": "5fe6767757cc3ad757996b6a77197da442f944dd387c0107e39e73d072ca087b8d752217dc431482ebd3132b3379c5b37702524b8e17c6cea3b71657e8d4b2df"
     },
     {
       "path": "Map/neutralBS1/neutralBS1.r3t",
@@ -10119,8 +9164,8 @@
     },
     {
       "path": "Map/neutralBS2/NeutralBS2.ebp",
-      "size": 962180,
-      "hash": "dec8e348c092cb850fc1ece88b9e6e5ae02960fabbd6c088e8ff8ee4ba5301bfdd182508953e2e7f4c2b286b7073c1670126e86fd1b71ae53818a16f1f651fc5"
+      "size": 936632,
+      "hash": "c2d7e1b62d7d04737229390a52cbbb74d8a1b13d780c42154761e12415d17b3bbbe69d38e1f2bc421ef4ccc65c02fa246b04f2e7740d2dda292786a6ae0a1f0b"
     },
     {
       "path": "Map/neutralBS2/neutralBS2.r3t",
@@ -10139,8 +9184,8 @@
     },
     {
       "path": "Map/neutralC/neutralC.ebp",
-      "size": 736962,
-      "hash": "d8da12dc719c2a7489b30c75a216a2a2ea72f099068b33dbb2f3adffe8a1d1a0ec0ad668e6ca859052e2bbbe0fc9d30fa42d997d02db6b396a0ddf78ec8bc7a9"
+      "size": 784392,
+      "hash": "a2c634e1ca1481c3ca3ad1c89c62b1fbd4820363a29c3e2cc83ece4e2d9bc2d376943e40ca392751d2734ef4e23fc4dd08d1b613270c2af13566876f25e9a31b"
     },
     {
       "path": "Map/neutralC/neutralC.r3t",
@@ -10153,39 +9198,14 @@
       "hash": "357254ac05f58f1bae5be26baee070f7f2d36960dfd86b981319016d67e21048b217248a86b28e193cd87897bd0bd8887bc0c0cb152ef3ab4efada77717761d3"
     },
     {
-      "path": "Map/neutralC/Sky/neutralCsky.r3e",
-      "size": 28022,
-      "hash": "de6360ee6d1339dc9ace9be489b54ebf8d7194a3bc7273d9f262e3b8604ea0036caaceaf03d97ca19e98ce9cda694087e3342577421641ccc09b72da3fcbf983"
-    },
-    {
-      "path": "Map/neutralC/Sky/neutralCsky.r3m",
-      "size": 1908,
-      "hash": "88773b3a8d1c0dc5934dd8064f655dc91b1e6c06f68d876ce4dc52389fe8122ff602a061b73fa56338e13d58c052e6023acf5c8a7abe7a97489727db798d8814"
-    },
-    {
-      "path": "Map/neutralC/Sky/neutralCsky.r3t",
-      "size": 3913176,
-      "hash": "98cbb213b2c79c293d6982f1858525cda6520b76519a9dc8c81c13b03367e87a55f9d689be424b149a3e28333b69f34447cf27beb22711e3d415fad14db61206"
-    },
-    {
-      "path": "Map/neutralC/sky2/neutralCsky2.r3e",
-      "size": 20312,
-      "hash": "9763772d8e0be840d81de9c5d096190849091fc12169690409b4e3202a5c818238888077a0b8572b318bc89f891d391d64c554b9d02f055dadab3b3ec1cd47a5"
-    },
-    {
-      "path": "Map/neutralC/sky2/neutralCsky2.r3m",
-      "size": 1954,
-      "hash": "799f5f0ceb51e73e2e90967b223db6c76f7f80f567e3637b38e9e82afd4cadbee689c966171740d611be7e1e7073a580d1e8f312a8e65bdab1e483527ddaaef9"
-    },
-    {
-      "path": "Map/neutralC/sky2/neutralCsky2.r3t",
-      "size": 5420592,
-      "hash": "96bc9a8aa153e76e19b6b08a142ed3804ed33899cf99391cdac8fe0aee254a147a8c2a613af14dc9e6b61803c3263455313981f6587fbe8b5eadf5a86d235f08"
+      "path": "Map/neutralC/neutralCLgt.r3t",
+      "size": 13239336,
+      "hash": "32c5f40b674a4301cfd791f9c266b8b139bd479ebbadabdffc6e999a252a7271f39a29c3cba72073b94ac7b8a87022e801ace09e7d22e05af270792b70f9b328"
     },
     {
       "path": "Map/NeutralCS1/neutralcs1.ebp",
-      "size": 368800,
-      "hash": "42b148e53fccaa5cd2fbb60ad3df0662e7ef12d4e1b0e1931629002fafe1306e58e2d601c1c7c1005f16118e87b2cea1e695dc63e4a02d951aac8cd9cb295754"
+      "size": 395320,
+      "hash": "c6bc11a29f7fd39914ae0aca781f7f0fc84b592154ad7bc67fb3eeed47b68e0aae720e04b320d02eb2a22396de57472ef8690690b7a5e6f2ee27bcd8e83d24b4"
     },
     {
       "path": "Map/NeutralCS1/neutralCS1.r3t",
@@ -10204,8 +9224,8 @@
     },
     {
       "path": "Map/neutralCS2/NeutralCS2.ebp",
-      "size": 457614,
-      "hash": "f3e5493191b2ea01d6cb216d478781d56e32f56fb91e144f16b063f19e7099760a8c936e7bdfedf01b47348e9d62b4c404df0c5dae3d5824ee0e0a3a7522d97d"
+      "size": 421832,
+      "hash": "87a03d238098912e5f28c8a18add7670f0935de3a667a9e765fb01eba6d630060698e157bf7883cae7e59532daa608217efec86fc8faef0242504d36db868c35"
     },
     {
       "path": "Map/neutralCS2/neutralCS2.r3t",
@@ -10223,9 +9243,14 @@
       "hash": "7cc963f4375da98541fdb52bea6d78695bd8ede3eb3cbbbed1ce5e85d82e7ef8f3b3bf16c5fc71ca3d09ae0ef54d7e4db230b307ba920e1f08a0e9c270a6ed5a"
     },
     {
+      "path": "Map/Platform01/Platform01.r3x",
+      "size": 1036,
+      "hash": "357254ac05f58f1bae5be26baee070f7f2d36960dfd86b981319016d67e21048b217248a86b28e193cd87897bd0bd8887bc0c0cb152ef3ab4efada77717761d3"
+    },
+    {
       "path": "Map/resources/resources.ebp",
-      "size": 562122,
-      "hash": "0721ff734aa62ceca09d7421cd1121cd4dd4711144b58128d784ff72931b9cfb478c45872ee73a5a72382da9d6d010afa742206df02982900b133cfcc9fd1616"
+      "size": 568096,
+      "hash": "64aabb46fab2250065aa62f11c2d835d1992a6da1b1c2f9a27e5ee1a7e24b0ff0cecd0a7d686f68d31cb2e9e509f8cc883859a437c9020887b8990c16a72c6f9"
     },
     {
       "path": "Map/resources/resources.r3t",
@@ -10254,8 +9279,8 @@
     },
     {
       "path": "Map/Sette/Sette.ebp",
-      "size": 370610,
-      "hash": "bff5f7bcb4f95c926f0bb414a729bf340b800bd46cbbad37a35a88348ac653328dac1b0ac13735578f474423170b6fadbedc96e6a8c4ede1a80d6e7d41d1275f"
+      "size": 364014,
+      "hash": "1664aaf7e7c72cca48b3231641d32262a38c1bb770efb19d4125a413c8e7999e505cff211da15fad80459f9b6f4f05dd073937e8e69a8509e0dd874ba4620b42"
     },
     {
       "path": "Map/Sette/Sette.r3t",
@@ -10303,9 +9328,9 @@
       "hash": "04857a46c894171ac4fd1fe3964e4457c2f65dd46c37b56d19c5d7d37c671c4f8ef5f82c3b98e43461536e1fd683158ae60baae2fe06f3dd998f9d7b11003fe0"
     },
     {
-      "path": "PlayGames Asterios [x5].exe",
+      "path": "PlayGames Asterios [x3].exe",
       "size": 153255824,
-      "hash": "ad2e923117737e8a770a4202d7b1c6895c376ea55209e3bd93cbe670d9de0023fed2d723a505cc58870fbe1db79512877a8fe2562f2de96653e5a5b87f3a5d27"
+      "hash": "54b306358880f8fd8a232f099fb65cb92f39526db977a9626c906a711562c8cde33489142a343a5ad3ea9efee24773383deb7352e202c3519ee1746b9be8848e"
     },
     {
       "path": "PresentationNative_cor3.dll",
