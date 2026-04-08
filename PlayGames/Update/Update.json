@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "2",
+  "version": "3",
   "files": [
     {
       "path": "Character/Monster/Ani/LUNKER_WARIDLE_01_00.ANI",
@@ -9330,7 +9330,7 @@
     {
       "path": "PlayGames Asterios [x3].exe",
       "size": 153255824,
-      "hash": "54b306358880f8fd8a232f099fb65cb92f39526db977a9626c906a711562c8cde33489142a343a5ad3ea9efee24773383deb7352e202c3519ee1746b9be8848e"
+      "hash": "c92759e5f3ec4d1a7a0bdef5b9f919d0c293c7527999b0a5ad3a80e9096a74006ee0f3e64a0fada57c748e2b477e2a30f3befff53f23749d3b36f4f1b14a4266"
     },
     {
       "path": "PresentationNative_cor3.dll",
@@ -9400,7 +9400,7 @@
     {
       "path": "System/titlelogo.tga",
       "size": 5440044,
-      "hash": "2bfca4b54dc1f06a90c4b7a7d894191063dfccf1ed0ca6a2ade8dc953792f3e52b96c104fc3de608a5cdb871dcd524a3616577ef238a9b3db1565d69fddb9e21"
+      "hash": "2ed3e58304245239d47e25241532b5767586e1513cf84800318d5d1ff18720f0e7ac6c1fd7b7b62b41dd2d7da09936a132c6f6491f5a4b75a543c93da5a3858f"
     },
     {
       "path": "vcruntime140_cor3.dll",
