@@ -1,0 +1,36 @@
+{
+  "method": "Hosting",
+  "version": "1",
+  "files": [
+    {
+      "path": "Aory-Launch.exe",
+      "size": 153255824,
+      "hash": "3fcc22107c17346d29788b29df554c9127f4d9b957f035104d6cbedf36dd5a2d01f82c3561590acc834003b447911aa6e8ab4d3ffc09f5c006c49097637fdf87"
+    },
+    {
+      "path": "D3DCompiler_47_cor3.dll",
+      "size": 4147560,
+      "hash": "bd588d1c4946f36774a97cd48f64cdf92422997a4b7dc54140631bcbe9a1c7e7de98c3e479b2995b057630d39a8c1878df3cf32d1fdb89a1d8d09bf29d0110aa"
+    },
+    {
+      "path": "PenImc_cor3.dll",
+      "size": 142136,
+      "hash": "04857a46c894171ac4fd1fe3964e4457c2f65dd46c37b56d19c5d7d37c671c4f8ef5f82c3b98e43461536e1fd683158ae60baae2fe06f3dd998f9d7b11003fe0"
+    },
+    {
+      "path": "PresentationNative_cor3.dll",
+      "size": 943880,
+      "hash": "fc7454b9f74cf37314ffbaf6c16c9d17c21f8106da69dd8b29cc91897ca6ca9e99c1de64892cf5d7ecf100fcdbeeae6e98b6fab92720430d49305e4d85839735"
+    },
+    {
+      "path": "vcruntime140_cor3.dll",
+      "size": 91216,
+      "hash": "d451625494b54b96a481d34f5b42b9c631810558267e8b37b182fe09583422f1c1171a922c9abfe4227ee91f430f3579e8ab8173234264a435fdcfa6a16ce57e"
+    },
+    {
+      "path": "wpfgfx_cor3.dll",
+      "size": 1803064,
+      "hash": "c2b816fb1ae7e9e60b8cabb9c432b2dc21d569e4314ebe606ffb6a06efb42c5ff6db3558e3c9d768e26d864311d38b5e4b883756fa57b9267f8f5b6636a82b9f"
+    }
+  ]
+}
