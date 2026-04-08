@@ -1,11 +1,11 @@
 {
-  "method": "Hosting",
+  "method": "GitHub",
   "version": "1",
   "files": [
     {
       "path": "Aory-Launch.exe",
       "size": 153255824,
-      "hash": "3fcc22107c17346d29788b29df554c9127f4d9b957f035104d6cbedf36dd5a2d01f82c3561590acc834003b447911aa6e8ab4d3ffc09f5c006c49097637fdf87"
+      "hash": "5fd0bcb8c9fa2e7db0add913023f59c296f5e2bd7f2a84aa63ff15d17413760e76fbb66b48c7d32913634d60f86b3fe06ca64e07c13aadace85d4d12850a04a3"
     },
     {
       "path": "D3DCompiler_47_cor3.dll",
