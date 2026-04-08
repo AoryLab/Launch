@@ -1,0 +1,87 @@
+{
+  "ProxyGateServers": [
+    { "Name": "[DE] Основной", "IP": "bd403cd3f4353b4893ffe6623dff9412", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" },
+    { "Name": "[RU] Запасной", "IP": "6a29d24182e1eed72e4150079ddb50f7", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" }
+  ],
+
+  "Features": {
+    "AutoUpdate": {
+      "Enabled": true,
+      "Check": true,
+      "Repair": true,
+      "Url": [
+        "41cea1e12524da691e256ccfc129d75d236f8e7d82ea8cb3c10bfc643bd42adae741ede813282fdf12f9ceeca285903d68b3c283a0074cf9c6e1cde2bdfc93dc89754e527a6dea4f508056024dfd64364e3d0545bdefd44e284493e34e74f2f9"
+      ],
+		"SkipUpdate": true,
+      "DontSkip": [
+        "System",
+        "DataTable"
+      ]
+    },
+
+    "News": {
+      "Enabled": false,
+      "Url": [
+		"41cea1e12524da691e256ccfc129d75d236f8e7d82ea8cb3c10bfc643bd42adae741ede813282fdf12f9ceeca285903d68b3c283a0074cf9c6e1cde2bdfc93dca7bebfd9f38cdbf1bf2707908ddc6bec09401153241bed7342ac70877dcb1a0d"
+	  ]
+    },
+
+    "Language": {
+      "Multi": false,
+      "Default": "Russia",
+      "Available": ["Russia", "English"]
+    },
+
+    "Buttons": {
+      "Standard": {
+        "Enabled": true,
+        "Items": [
+          {
+            "Enabled": true,
+            "Name": {
+              "Russia": "Форум",
+              "English": "Name",
+              "Brazil": "Name",
+              "China": "Name",
+              "Indonesia": "Name",
+              "Japan": "Name",
+              "Korea": "Name",
+              "Philippines": "Name",
+              "Taiwan": "Name",
+              "Vietnam": "Name"
+            },
+            "Url": "https://rf.playgames.su/"
+          },
+		  {
+            "Enabled": true,
+            "Name": {
+              "Russia": "Личный кабинет",
+              "English": "Name",
+              "Brazil": "Name",
+              "China": "Name",
+              "Indonesia": "Name",
+              "Japan": "Name",
+              "Korea": "Name",
+              "Philippines": "Name",
+              "Taiwan": "Name",
+              "Vietnam": "Name"
+            },
+            "Url": "https://cp.playgames.su/"
+          }
+        ]
+      },
+
+      "Social": {
+        "Enabled": true,
+        "Items": [
+          { "Enabled": false, "Type": "YouTube", "Url": "https://none.ru" },
+          { "Enabled": false, "Type": "Instagram", "Url": "https://none.ru" },
+          { "Enabled": false, "Type": "TikTok", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "VK", "Url": "https://vk.com/playgames_su" },
+          { "Enabled": true, "Type": "Telegram", "Url": "https://t.me/playgames_su" },
+          { "Enabled": true, "Type": "Discord", "Url": "https://discord.gg/8MJP5nFkXu" }
+        ]
+      }
+    }
+  }
+}
