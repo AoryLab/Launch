@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "1",
+  "version": "2",
   "files": [
     {
       "path": "Character/Monster/Ani/LUNKER_WARIDLE_01_00.ANI",
@@ -9400,7 +9400,7 @@
     {
       "path": "System/titlelogo.tga",
       "size": 5440044,
-      "hash": "99f4b0238f8133115e42de49d0939ea92ac1cabe88555c85c5a7e3443b9e899219de96aafb721dc650a52b79d9a9e6103a4e05eb8c35916a0eb5b29d5dcd0d7e"
+      "hash": "2bfca4b54dc1f06a90c4b7a7d894191063dfccf1ed0ca6a2ade8dc953792f3e52b96c104fc3de608a5cdb871dcd524a3616577ef238a9b3db1565d69fddb9e21"
     },
     {
       "path": "vcruntime140_cor3.dll",
