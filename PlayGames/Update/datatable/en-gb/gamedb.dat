@@ -3,15 +3,17 @@
 ;;make App there and give it desired name that will be displayed as "Playing NAME". If you create your app, you can change "logo" id too.
 ;;If you leave ButtonName and ButtonURL empty, this button won't be visable in status
 ApplicationID = 1265709645461323868
-FirstTextRow = Asterios [x5]
-SecondTextRow = OPEN 26.12.25
+FirstTextRow = Asterios [x3]
+SecondTextRow = NEW OPEN 26.12.26
 LogoHoverText = www.playgames.su
-;;asset name from your Rich Presence Art Assets tab in developer website
+;;название файла ассета из личного кабинета разработчика дискорда в разделе Rich Presence Art Assets
 LogoID = logo
 ButtonName1 = Site
 ButtonURL1 = https://playgames.su/
 ButtonName2 = Forum
 ButtonURL2 = https://rf.playgames.su/
+ButtonName3 = Base
+ButtonURL3 = https://wiki.playgames.su/
 
 [PlayerNameSetting]
 PremiumColor = 0xFFECB100

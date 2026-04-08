@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "3",
+  "version": "4",
   "files": [
     {
       "path": "Character/Monster/Ani/LUNKER_WARIDLE_01_00.ANI",
@@ -7139,8 +7139,8 @@
     },
     {
       "path": "datatable/en-gb/gamedb.dat",
-      "size": 10442,
-      "hash": "17d234ad11c8712190580c5fc090717b60b71117d796d8bcfb9ebcf26e8b3001732a5eae29aa619e7193f607e1a693ba125be87c858226e08235874a7dd8abff"
+      "size": 10599,
+      "hash": "72a592cb9f295c16cdf82d1cf6424da329d4546f7b0a1f8e9a6543bce2c454a3dc9b7ae549e7a14893059f3a1fee7152064b1993386637192c0228380aad3225"
     },
     {
       "path": "datatable/en-gb/NDCharacter.edf",
@@ -7249,8 +7249,8 @@
     },
     {
       "path": "datatable/ru-ru/gamedb.dat",
-      "size": 11217,
-      "hash": "5a780b26f0d62d89c98e1ad943e6402186f5cc5aae969efcf464cdbe446933e5eb566744b68d7af65d7d5201e30cb3cbcbaa3f8368579ec75d50b57b97b44dca"
+      "size": 11282,
+      "hash": "368d776eb3274f51d9041b1052eb11bb9320f279e7be0c10c2cab843191469d83047a2445de83e92f605d1269cb264da381f9e0b89dc38ec30f563504437d5a7"
     },
     {
       "path": "datatable/ru-ru/ndcharacter.edf",
