@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "5",
+  "version": "6",
   "files": [
     {
       "path": "Character/Monster/Ani/LUNKER_WARIDLE_01_00.ANI",
@@ -9241,6 +9241,26 @@
       "path": "Map/neutralCS2/neutralCS2Lgt.r3t",
       "size": 10488408,
       "hash": "7cc963f4375da98541fdb52bea6d78695bd8ede3eb3cbbbed1ce5e85d82e7ef8f3b3bf16c5fc71ca3d09ae0ef54d7e4db230b307ba920e1f08a0e9c270a6ed5a"
+    },
+    {
+      "path": "Map/Platform01/platform01.bsp",
+      "size": 29178493,
+      "hash": "364e0de9705dac441e08c2b2c5b70bba4ade4a7d616a15f6b6c2393850473817e592b7d7910ae0038ce74c0c0ac39f4008f2669d1a2b49fdc4a2ebce2ce508e6"
+    },
+    {
+      "path": "Map/Platform01/platform01.ebp",
+      "size": 733270,
+      "hash": "8767025ea41177522e80d2c99ca45a5e5244d53d4db7a1f0e5c7e92c2675c1fd5a4808ecaa2dad285a26213f720d1a6632ceb2703c66a5ff6eeaa7ed44e9b406"
+    },
+    {
+      "path": "Map/Platform01/platform01.r3m",
+      "size": 113978,
+      "hash": "3c50a0fce255d5d81747f8d533272812247a45b2720352dff388f6566f8b0ca51222232c264de0b9e07aa50d66a5291edf400fe985482179192aa2a15a37666c"
+    },
+    {
+      "path": "Map/Platform01/platform01.r3t",
+      "size": 116012706,
+      "hash": "f2c244b7dbac28dfa5827fb72a56e3af5f1d6c6fdddcb725c95d801982a049ee4db104729a109dc93a5dbf106a5634855ef08e698651449353dba2d9d526711f"
     },
     {
       "path": "Map/Platform01/Platform01.r3x",
