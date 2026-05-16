@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "6",
+  "version": "7",
   "files": [
     {
       "path": "Character/Monster/Ani/LUNKER_WARIDLE_01_00.ANI",
@@ -7135,12 +7135,12 @@
     {
       "path": "datatable/character.edf",
       "size": 615365,
-      "hash": "180be6cdcac71fcd848faebb26ed88337d94e1249a997fbdd6d88aaebd5dc19e2b18c862d46195b2dd4c3ea641c8c6acf589a5101f3ebf8d36db73c17e940e3e"
+      "hash": "e65a63148ae4b88ab1e6b7bf84a52c9ac2ad450205f93251375149ba425ca794a0e7448dbcf43ba0716497fb6339de0015f8b1892292e3f3e24aa063376ed39a"
     },
     {
       "path": "datatable/en-gb/gamedb.dat",
-      "size": 10599,
-      "hash": "72a592cb9f295c16cdf82d1cf6424da329d4546f7b0a1f8e9a6543bce2c454a3dc9b7ae549e7a14893059f3a1fee7152064b1993386637192c0228380aad3225"
+      "size": 10442,
+      "hash": "17d234ad11c8712190580c5fc090717b60b71117d796d8bcfb9ebcf26e8b3001732a5eae29aa619e7193f607e1a693ba125be87c858226e08235874a7dd8abff"
     },
     {
       "path": "datatable/en-gb/NDCharacter.edf",
@@ -7199,8 +7199,8 @@
     },
     {
       "path": "datatable/item.edf",
-      "size": 14036055,
-      "hash": "b571982c4aaf2943a88482a947367167f913ff240d63e1b28a74a10b5b29eae819fe9b18c9acdafceb027431d5688c2e4b03a9b6fd99c2f5d5f43bb44396d4d6"
+      "size": 14036347,
+      "hash": "109a8fac09b4a14edb233a724f48f701db3613e028429addd35622fa6d3519161ee4de4615040d6704657eaedb6ea897ee486293c6d5baad19c9dd4a742bc6ec"
     },
     {
       "path": "datatable/itemcash.edf",
@@ -7249,18 +7249,18 @@
     },
     {
       "path": "datatable/ru-ru/gamedb.dat",
-      "size": 11282,
-      "hash": "368d776eb3274f51d9041b1052eb11bb9320f279e7be0c10c2cab843191469d83047a2445de83e92f605d1269cb264da381f9e0b89dc38ec30f563504437d5a7"
+      "size": 11217,
+      "hash": "5a780b26f0d62d89c98e1ad943e6402186f5cc5aae969efcf464cdbe446933e5eb566744b68d7af65d7d5201e30cb3cbcbaa3f8368579ec75d50b57b97b44dca"
     },
     {
       "path": "datatable/ru-ru/ndcharacter.edf",
       "size": 218625,
-      "hash": "679ed6af77cc8d7f1fb5042b0c342b17c1a846d292f8db1ffe746b1274872b0024d89e141ec3819cf735ec5927f981eadf20b0900d6b0a80f53c4df1f918b64d"
+      "hash": "9329b207f3278ea8423fb2fccdb635efcb381c7f07546cc181bf9bc5cee196cabbf6b9dce575796e92883f196ee64633d3ebd81dece4805762bfb7dbb4788d4b"
     },
     {
       "path": "datatable/ru-ru/nditem.edf",
-      "size": 9143153,
-      "hash": "bc99a66fa53a6432c2dfdd79baa8956487daecad826b056f6901a35e09926dadd55aefd3916d26bdf2adfc8ac6f06e20b182d0da1509c929cbb922962c891947"
+      "size": 9143198,
+      "hash": "14c0eb7e6d12a2f5ae696dce0d208f97db9cea52924a6d57939c6de6cbb620ab19a3a76fe2cd73be2a76d48c8d0bb42dacf106eaa1d69ac03f454a88dfd2dc94"
     },
     {
       "path": "datatable/ru-ru/nditemcash.edf",

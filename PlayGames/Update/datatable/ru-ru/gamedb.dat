@@ -4,8 +4,8 @@
 ;;Если ButtonName и ButtonURL оставить пустым, кнопка не будет отображаться (Если нужно, допустим, убрать одну)
 ;;Кириллица не поддерживается.
 ApplicationID = 1265709645461323868
-FirstTextRow = Asterios [x3]
-SecondTextRow = NEW OPEN 26.12.26
+FirstTextRow = Asterios [x5]
+SecondTextRow = OPEN 26.12.25
 LogoHoverText = www.playgames.su
 ;;название файла ассета из личного кабинета разработчика дискорда в разделе Rich Presence Art Assets
 LogoID = logo
@@ -13,8 +13,6 @@ ButtonName1 = Site
 ButtonURL1 = https://playgames.su/
 ButtonName2 = Forum
 ButtonURL2 = https://rf.playgames.su/
-ButtonName3 = Base
-ButtonURL3 = https://wiki.playgames.su/
 
 [PlayerNameSetting]
 PremiumColor = 0xFFECB100
