@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "7",
+  "version": "8",
   "files": [
     {
       "path": "Character/Monster/Ani/LUNKER_WARIDLE_01_00.ANI",
@@ -7200,7 +7200,7 @@
     {
       "path": "datatable/item.edf",
       "size": 14036347,
-      "hash": "109a8fac09b4a14edb233a724f48f701db3613e028429addd35622fa6d3519161ee4de4615040d6704657eaedb6ea897ee486293c6d5baad19c9dd4a742bc6ec"
+      "hash": "24cf27c0e92f6bbd3703bede9922d66fe5eb8b96f2f2d5bb3195a5fffe7af9b2714267bc8ae3efe9e0bd8b618e00e3ee2fa3908ceb551ee383caa4caeab2e0ee"
     },
     {
       "path": "datatable/itemcash.edf",
@@ -7259,8 +7259,8 @@
     },
     {
       "path": "datatable/ru-ru/nditem.edf",
-      "size": 9143198,
-      "hash": "14c0eb7e6d12a2f5ae696dce0d208f97db9cea52924a6d57939c6de6cbb620ab19a3a76fe2cd73be2a76d48c8d0bb42dacf106eaa1d69ac03f454a88dfd2dc94"
+      "size": 9143341,
+      "hash": "c16ccea43d64eb5382028ea0b9e8c385dc6b6a8d28da84958c44ad14d0c178aa3c782ad74e37356083a55f6fadd1a47e3fb9e792c56901c0e443d68ae6f1d871"
     },
     {
       "path": "datatable/ru-ru/nditemcash.edf",
@@ -7300,7 +7300,7 @@
     {
       "path": "datatable/store.edf",
       "size": 540729,
-      "hash": "2eb77abdb9d03e6481f6573c3f152fd6b2f740ab31f46052ed8b49b889271742a5b0b6b8c43a80867518eceb851507878d68ef7ef06bda86b03dacccd345fd2b"
+      "hash": "3a3886a135d7f7905d15c840968b284c751bb62b1bad3052605d50eaedbd7a41c06480d4c32394d024f70aa2da1a10de51746144a8e7d48e367dc5ae68590ba6"
     },
     {
       "path": "dbghelp.dll",
