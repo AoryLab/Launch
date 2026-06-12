@@ -1,19 +1,18 @@
 {
   "ProxyGateServers": [
-    { "Name": "TestMain1", "IP": "036aa8619fe52c6c128b82cd87ecefb0", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" },
-    { "Name": "TestMain2", "IP": "036aa8619fe52c6c128b82cd87ecefb0", "Port": "982e22f1e87966f22372932ef4f2dff8" },
-    { "Name": "RF GAVNO", "IP": "1268f8b8a87592918a151d03ac9bcf4a", "Port": "20a69b027a9404124980600f47202872" }
+    { "Name": "Name Gate", "IP": "fc1ceb55291e9db9e7d91fd86a9a9536", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" },
+    { "Name": "Arc", "IP": "c8d19e8d5b2eee447b9ae0545a59f4bc", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" }
   ],
 
   "Features": {
     "AutoUpdate": {
-      "Enabled": false,
-      "Check": false,
-      "Repair": false,
+      "Enabled": true,
+      "Check": true,
+      "Repair": true,
       "Url": [
         "41cea1e12524da691e256ccfc129d75d236f8e7d82ea8cb3c10bfc643bd42adae741ede813282fdf12f9ceeca285903d68b3c283a0074cf9c6e1cde2bdfc93dc8beaeaf5c6fcf371aa71f6d62a7da3b9bb1ad6932e28de7487dd115718134d96"
       ],
-	    "SkipUpdate": false,
+	    "SkipUpdate": true,
       "DontSkip": [
         "System",
         "DataTable"
@@ -21,21 +20,21 @@
     },
 
     "News": {
-      "Enabled": true,
+      "Enabled": false,
       "Url": [
 		"41cea1e12524da691e256ccfc129d75d236f8e7d82ea8cb3c10bfc643bd42adae741ede813282fdf12f9ceeca285903d68b3c283a0074cf9c6e1cde2bdfc93dc459107488cb3bd64be1c4138a53324e30183f5d3acd4379806e3651a66828ed4"
 	  ]
     },
 
     "Language": {
-      "Multi": true,
+      "Multi": false,
       "Default": "Russia",
       "Available": ["Russia", "English"]
     },
 
     "Buttons": {
       "Standard": {
-        "Enabled": true,
+        "Enabled": false,
         "Items": [
           {
             "Enabled": true,
@@ -57,7 +56,7 @@
       },
 
       "Social": {
-        "Enabled": true,
+        "Enabled": false,
         "Items": [
           { "Enabled": true, "Type": "YouTube", "Url": "https://none.ru" },
           { "Enabled": true, "Type": "Instagram", "Url": "https://none.ru" },
