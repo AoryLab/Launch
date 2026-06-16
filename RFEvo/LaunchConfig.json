@@ -1,7 +1,6 @@
 {
   "ProxyGateServers": [
-    { "Name": "Name Gate", "IP": "fc1ceb55291e9db9e7d91fd86a9a9536", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" },
-    { "Name": "Arc", "IP": "c8d19e8d5b2eee447b9ae0545a59f4bc", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" }
+    { "Name": "Main Gate", "IP": "c7df57de705c8079faf29356765eee1f", "Port": "982e22f1e87966f22372932ef4f2dff8" },
   ],
 
   "Features": {
@@ -10,7 +9,7 @@
       "Check": true,
       "Repair": true,
       "Url": [
-        "41cea1e12524da691e256ccfc129d75d236f8e7d82ea8cb3c10bfc643bd42adae741ede813282fdf12f9ceeca285903d68b3c283a0074cf9c6e1cde2bdfc93dc8beaeaf5c6fcf371aa71f6d62a7da3b9bb1ad6932e28de7487dd115718134d96"
+        "41cea1e12524da691e256ccfc129d75d236f8e7d82ea8cb3c10bfc643bd42ada961fbf20173db1bd99fdb178c4fd6db8f26aaa3a9e6eb23c45b2d73e5208b703829188a070604c95c47f084609e12969720ba3d6e378edb092f8147d639e91b4"
       ],
 	    "SkipUpdate": true,
       "DontSkip": [
