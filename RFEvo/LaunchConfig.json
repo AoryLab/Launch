@@ -1,6 +1,7 @@
 {
   "ProxyGateServers": [
-    { "Name": "Main Gate", "IP": "c7df57de705c8079faf29356765eee1f", "Port": "982e22f1e87966f22372932ef4f2dff8" }
+    { "Name": "Main Gate №1", "IP": "c7df57de705c8079faf29356765eee1f", "Port": "982e22f1e87966f22372932ef4f2dff8" },
+	{ "Name": "Main Gate №2", "IP": "81c837a1228510ffa05ae6276ac06ebb", "Port": "982e22f1e87966f22372932ef4f2dff8" }
   ],
 
   "Features": {
