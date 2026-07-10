@@ -1,0 +1,72 @@
+{
+  "ProxyGateServers": [
+    { "Name": "GATE #1", "IP": "48911bbdc4708643b83a7f57d93b9d18", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" },
+    { "Name": "GATE #2", "IP": "1433236b86458fd017b565667472fcf6", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" },
+    { "Name": "GATE #3", "IP": "e849ce618cd54895f8a2ab4808f7d102", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" }
+  ],
+
+  "Features": {
+    "AutoUpdate": {
+      "Enabled": true,
+      "Check": true,
+      "Repair": true,
+      "Url": [
+        "ce18fda5b91b5e431f88e2cef136bb3e01416497d4fe25850ad6e7d3d60711dde4840955f15b69d29a53851cddf5766b"
+      ],
+	    "SkipUpdate": false,
+      "DontSkip": [
+        "System",
+        "DataTable"
+      ]
+    },
+
+    "News": {
+      "Enabled": false,
+      "Url": [
+		"41cea1e12524da691e256ccfc129d75d236f8e7d82ea8cb3c10bfc643bd42adae741ede813282fdf12f9ceeca285903d68b3c283a0074cf9c6e1cde2bdfc93dc459107488cb3bd64be1c4138a53324e30183f5d3acd4379806e3651a66828ed4"
+	  ]
+    },
+
+    "Language": {
+      "Multi": false,
+      "Default": "Russia",
+      "Available": ["Russia", "English"]
+    },
+
+    "Buttons": {
+      "Standard": {
+        "Enabled": false,
+        "Items": [
+          {
+            "Enabled": true,
+            "Name": {
+              "Russia": "Имя",
+              "English": "Name",
+              "Brazil": "Name",
+              "China": "Name",
+              "Indonesia": "Name",
+              "Japan": "Name",
+              "Korea": "Name",
+              "Philippines": "Name",
+              "Taiwan": "Name",
+              "Vietnam": "Name"
+            },
+            "Url": "https://none.ru"
+          }
+        ]
+      },
+
+      "Social": {
+        "Enabled": false,
+        "Items": [
+          { "Enabled": true, "Type": "YouTube", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "Instagram", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "TikTok", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "VK", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "Telegram", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "Discord", "Url": "https://none.ru" }
+        ]
+      }
+    }
+  }
+}
