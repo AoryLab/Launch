@@ -57,12 +57,12 @@
       "Social": {
         "Enabled": true,
         "Items": [
-          { "Enabled": true, "Type": "YouTube", "Url": "https://none.ru" },
-          { "Enabled": true, "Type": "Instagram", "Url": "https://none.ru" },
-          { "Enabled": true, "Type": "TikTok", "Url": "https://none.ru" },
+          { "Enabled": false, "Type": "YouTube", "Url": "https://none.ru" },
+          { "Enabled": false, "Type": "Instagram", "Url": "https://none.ru" },
+          { "Enabled": false, "Type": "TikTok", "Url": "https://none.ru" },
           { "Enabled": true, "Type": "VK", "Url": "https://none.ru" },
           { "Enabled": true, "Type": "Telegram", "Url": "https://none.ru" },
-          { "Enabled": true, "Type": "Discord", "Url": "https://none.ru" }
+          { "Enabled": false, "Type": "Discord", "Url": "https://none.ru" }
         ]
       }
     }
