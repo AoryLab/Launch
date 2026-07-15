@@ -38,7 +38,23 @@
           {
             "Enabled": true,
             "Name": {
-              "Russia": "Имя",
+              "Russia": "Форум",
+              "English": "Name",
+              "Brazil": "Name",
+              "China": "Name",
+              "Indonesia": "Name",
+              "Japan": "Name",
+              "Korea": "Name",
+              "Philippines": "Name",
+              "Taiwan": "Name",
+              "Vietnam": "Name"
+            },
+            "Url": "https://none.ru"
+          },
+		  {
+            "Enabled": true,
+            "Name": {
+              "Russia": "Личный Кабинет",
               "English": "Name",
               "Brazil": "Name",
               "China": "Name",
