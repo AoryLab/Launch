@@ -1,0 +1,87 @@
+{
+  "ProxyGateServers": [
+    { "Name": "TEST HGK CONNECT", "IP": "", "Port": "" }
+  ],
+
+  "Features": {
+    "AutoUpdate": {
+      "Enabled": true,
+      "Check": true,
+      "Repair": true,
+      "Url": [
+        ""
+      ],
+	  "GoogleApiKey": "",
+	    "SkipUpdate": true,
+      "DontSkip": [
+        "System",
+        "DataTable"
+      ]
+    },
+
+    "News": {
+      "Enabled": false,
+      "Url": [
+		"41cea1e12524da691e256ccfc129d75d236f8e7d82ea8cb3c10bfc643bd42adae741ede813282fdf12f9ceeca285903d68b3c283a0074cf9c6e1cde2bdfc93dc459107488cb3bd64be1c4138a53324e30183f5d3acd4379806e3651a66828ed4"
+	  ]
+    },
+
+    "Language": {
+      "Multi": false,
+      "Default": "Russia",
+      "Available": ["Russia", "English"]
+    },
+
+    "Buttons": {
+      "Standard": {
+        "Enabled": true,
+        "Items": [
+          {
+            "Enabled": true,
+            "Name": {
+              "Russia": "Форум",
+              "English": "Name",
+              "Brazil": "Name",
+              "China": "Name",
+              "Indonesia": "Name",
+              "Japan": "Name",
+              "Korea": "Name",
+              "Philippines": "Name",
+              "Taiwan": "Name",
+              "Vietnam": "Name"
+            },
+            "Url": "https://none.ru"
+          },
+		  {
+            "Enabled": true,
+            "Name": {
+              "Russia": "Личный Кабинет",
+              "English": "Name",
+              "Brazil": "Name",
+              "China": "Name",
+              "Indonesia": "Name",
+              "Japan": "Name",
+              "Korea": "Name",
+              "Philippines": "Name",
+              "Taiwan": "Name",
+              "Vietnam": "Name"
+            },
+            "Url": "https://none.ru"
+          }
+        ]
+      },
+
+      "Social": {
+        "Enabled": true,
+        "Items": [
+          { "Enabled": false, "Type": "YouTube", "Url": "https://none.ru" },
+          { "Enabled": false, "Type": "Instagram", "Url": "https://none.ru" },
+          { "Enabled": false, "Type": "TikTok", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "VK", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "Telegram", "Url": "https://none.ru" },
+          { "Enabled": false, "Type": "Discord", "Url": "https://none.ru" }
+        ]
+      }
+    }
+  }
+}
