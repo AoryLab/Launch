@@ -9,9 +9,8 @@
       "Check": true,
       "Repair": true,
       "Url": [
-        "c606b8c7289b494a343d80558b86e6ece78e9826adce37659a13baa944b8caf008ea72c3081e4964211e299ed9fc3b6451b80417b32104d57fab832781d72968f79567800cbfe1287cca1098b09d700424e66729b60187c68ae258cb168e9713"
+        "3fe9f40d6b90888ae89ee60daa8a1a153de6aa74ae8fa1dffac0e38752e7796d612628cd24f6ab1e6bda7512cfacea15"
       ],
-	  "GoogleApiKey": "7c2622ded206e22209114838ce0416a9db10f9c63211847afc7eb4cbc4c9a229a904c29ae5887f29b7112ed29d562221",
 	    "SkipUpdate": true,
       "DontSkip": [
         "System",
@@ -20,14 +19,14 @@
     },
 
     "News": {
-      "Enabled": false,
+      "Enabled": true,
       "Url": [
 		"41cea1e12524da691e256ccfc129d75d236f8e7d82ea8cb3c10bfc643bd42adae741ede813282fdf12f9ceeca285903d68b3c283a0074cf9c6e1cde2bdfc93dc459107488cb3bd64be1c4138a53324e30183f5d3acd4379806e3651a66828ed4"
 	  ]
     },
 
     "Language": {
-      "Multi": false,
+      "Multi": true,
       "Default": "Russia",
       "Available": ["Russia", "English"]
     },
@@ -74,12 +73,12 @@
       "Social": {
         "Enabled": true,
         "Items": [
-          { "Enabled": false, "Type": "YouTube", "Url": "https://none.ru" },
-          { "Enabled": false, "Type": "Instagram", "Url": "https://none.ru" },
-          { "Enabled": false, "Type": "TikTok", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "YouTube", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "Instagram", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "TikTok", "Url": "https://none.ru" },
           { "Enabled": true, "Type": "VK", "Url": "https://none.ru" },
           { "Enabled": true, "Type": "Telegram", "Url": "https://none.ru" },
-          { "Enabled": false, "Type": "Discord", "Url": "https://none.ru" }
+          { "Enabled": true, "Type": "Discord", "Url": "https://none.ru" }
         ]
       }
     }
