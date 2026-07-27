@@ -28,7 +28,7 @@
     "Language": {
       "Multi": true,
       "Default": "Russia",
-      "Available": ["Russia", "English", "Indonesia", "Philippines"]
+      "Available": ["Russia", "English", "Indonesia", "Philippines", "Korea"]
     },
 
     "Buttons": {
