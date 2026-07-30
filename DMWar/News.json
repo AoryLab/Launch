@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "Title": {
+      "Russia": "Заголовок новости",
+      "English": "News Title"
+    },
+    "Content": {
+      "Russia": "Текст новости на русском языке.",
+      "English": "News content in English."
+    },
+    "Image": "https://i.yapx.ru/dLydj.jpg",
+    "Buttons": [
+      {
+        "Name": {
+          "Russia": "Подробнее",
+          "English": "Read More"
+        },
+        "Url": "https://i.yapx.ru/dLydj.jpg"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Title": {
+      "Russia": "Вторая новость",
+      "English": "Second News"
+    },
+    "Content": {
+      "Russia": "Текст второй новости.",
+      "English": "Second news content."
+    },
+    "Image": "https://i.yapx.ru/dLydn.jpg",
+    "Buttons": [
+      {
+        "Name": {
+          "Russia": "Перейти",
+          "English": "Go"
+        },
+        "Url": "https://none.ru/news/2"
+      }
+    ]
+  }
+]
