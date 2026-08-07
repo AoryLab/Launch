@@ -8,8 +8,8 @@
   "Features": {
     "AutoUpdate": {
       "Enabled": false,
-      "Check": true,
-      "Repair": true,
+      "Check": false,
+      "Repair": false,
       "Url": [
         "41cea1e12524da691e256ccfc129d75d236f8e7d82ea8cb3c10bfc643bd42adae741ede813282fdf12f9ceeca285903d68b3c283a0074cf9c6e1cde2bdfc93dc89754e527a6dea4f508056024dfd64364e3d0545bdefd44e284493e34e74f2f9"
       ],
