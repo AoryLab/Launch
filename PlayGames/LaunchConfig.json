@@ -3,6 +3,7 @@
     { "Name": "[DE] Основной", "IP": "bd403cd3f4353b4893ffe6623dff9412", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" },
     { "Name": "[RU] Запасной", "IP": "6a29d24182e1eed72e4150079ddb50f7", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" },
     { "Name": "[RU] TEST", "IP": "aec2227fb347092c501e96d4696fcd15", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" }
+    { "Name": "[RU] TEST2", "IP": "aec2227fb347092c501e96d4696fcd15", "Port": "982e22f1e87966f22372932ef4f2dff8" }
   ],
 
   "Features": {
