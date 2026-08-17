@@ -1,0 +1,87 @@
+{
+  "ProxyGateServers": [
+    { "Name": "[RU] TEST", "IP": "aec2227fb347092c501e96d4696fcd15", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" },
+    { "Name": "[RU] TEST2", "IP": "aec2227fb347092c501e96d4696fcd15", "Port": "982e22f1e87966f22372932ef4f2dff8" }
+  ],
+
+  "Features": {
+    "AutoUpdate": {
+      "Enabled": false,
+      "Check": true,
+      "Repair": true,
+      "Url": [
+        "3fe9f40d6b90888ae89ee60daa8a1a153de6aa74ae8fa1dffac0e38752e7796d612628cd24f6ab1e6bda7512cfacea15"
+      ],
+	    "SkipUpdate": true,
+      "DontSkip": [
+        "System",
+        "DataTable"
+      ]
+    },
+
+    "News": {
+      "Enabled": true,
+      "Url": [
+		"41cea1e12524da691e256ccfc129d75d236f8e7d82ea8cb3c10bfc643bd42adae741ede813282fdf12f9ceeca285903d68b3c283a0074cf9c6e1cde2bdfc93dc459107488cb3bd64be1c4138a53324e30183f5d3acd4379806e3651a66828ed4"
+	  ]
+    },
+
+    "Language": {
+      "Multi": true,
+      "Default": "Russia",
+      "Available": ["Russia", "English"]
+    },
+
+    "Buttons": {
+      "Standard": {
+        "Enabled": true,
+        "Items": [
+          {
+            "Enabled": true,
+            "Name": {
+              "Russia": "Форум",
+              "English": "Name",
+              "Brazil": "Name",
+              "China": "Name",
+              "Indonesia": "Name",
+              "Japan": "Name",
+              "Korea": "Name",
+              "Philippines": "Name",
+              "Taiwan": "Name",
+              "Vietnam": "Name"
+            },
+            "Url": "https://none.ru"
+          },
+		  {
+            "Enabled": true,
+            "Name": {
+              "Russia": "Личный Кабинет",
+              "English": "Name",
+              "Brazil": "Name",
+              "China": "Name",
+              "Indonesia": "Name",
+              "Japan": "Name",
+              "Korea": "Name",
+              "Philippines": "Name",
+              "Taiwan": "Name",
+              "Vietnam": "Name"
+            },
+            "Url": "https://none.ru"
+          }
+        ]
+      },
+
+      "Social": {
+        "Enabled": true,
+        "Items": [
+          { "Enabled": true, "Type": "YouTube", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "Instagram", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "TikTok", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "VK", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "Telegram", "Url": "https://none.ru" },
+          { "Enabled": true, "Type": "Discord", "Url": "https://none.ru" }
+        ]
+      }
+    }
+  }
+}
