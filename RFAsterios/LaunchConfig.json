@@ -1,14 +1,14 @@
 {
   "ProxyGateServers": [
-    { "Name": "[RU] TEST", "IP": "aec2227fb347092c501e96d4696fcd15", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" },
-    { "Name": "[RU] TEST2", "IP": "aec2227fb347092c501e96d4696fcd15", "Port": "982e22f1e87966f22372932ef4f2dff8" }
+    { "Name": "[RU] ASTERIOS", "IP": "aec2227fb347092c501e96d4696fcd15", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" },
+    { "Name": "[RU] TEST", "IP": "aec2227fb347092c501e96d4696fcd15", "Port": "982e22f1e87966f22372932ef4f2dff8" }
   ],
 
   "Features": {
     "AutoUpdate": {
       "Enabled": false,
-      "Check": true,
-      "Repair": true,
+      "Check": false,
+      "Repair": false,
       "Url": [
         "3fe9f40d6b90888ae89ee60daa8a1a153de6aa74ae8fa1dffac0e38752e7796d612628cd24f6ab1e6bda7512cfacea15"
       ],
