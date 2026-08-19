@@ -67,5 +67,11 @@
         ]
       }
     }
-  }
+  },
+	
+	"Copyright" : {
+		"Enabled": true,
+		"Name": "Powered Aory Lab",
+		"Url": "https://aory.ru/"
+	}
 }
