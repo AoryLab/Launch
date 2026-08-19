@@ -81,12 +81,12 @@
           { "Enabled": true, "Type": "Discord", "Url": "https://none.ru" }
         ]
       }
-    },
-	
-	"Copyright" : {
+    }
+  },
+  
+  "Copyright" : {
 		"Enabled": true,
 		"Name": "AORY LAB",
 		"Url": "https://aory.ru/"
 	}
-  }
 }
